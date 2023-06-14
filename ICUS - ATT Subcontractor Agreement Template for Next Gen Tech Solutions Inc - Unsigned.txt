@@ -1,0 +1,793 @@
+IMPACT CONNECTUS, LLC SUBCONTRACTOR AGREEMENT FOR AT&T PROGRAM AGREEMENT FOR RESIDENTIAL SERVICES 
+ 
+ 
+This Impact ConnectUS, LLC Subcontractor Agreement for AT&T Residential Services, 
+(“Subcontractor Agreement”) is by and between Impact ConnectUS, LLC, a Tennessee limited liability company (“ICUS” or “Contractor”) and: 
+ 
+ Next Gen Tech Solutions Inc 
+
+ 
+  
+ 	
+ 
+ 
+W I T N E S S E T H : 
+ 
+      WHEREAS, ICUS is an authorized Agent pursuant to a May 24, 2019 AT&T Program Agreement (“Program Agreement”) for AT&T Services & Equipment, and 
+ 
+WHEREAS, AT&T Services is a Master Service Provider, and 
+ 
+      WHEREAS, ICUS is authorized in its Network to have subcontractors to secure Customers for the AT&T Residential Services & Equipment (“AT&T Services”), and 
+ 
+      WHEREAS, AT&T Services involve the Internet, Cable TV, Fiber, Phone and Mobile Phone services to residential customers, and 
+ 
+      WHEREAS, Subcontractor desires to be authorized by ICUS to provide AT&T Services to residential customers as an independent contractor with ICUS, pursuant to specific rules, regulations, terms and conditions as provided herein and in exhibits hereto, as amended from time to time, 
+ 
+BE IT RESOLVED AND AGREED UPON, to-wit: 
+ 
+      That for and in consideration of the above-named premises and the following promises, and other good and valuable consideration, as provided for herein, the Parties hereto agree as follows: 
+ 
+ 
+ 
+  
+LLC Confidential
+PREAMBLE 
+ 
+      The AT&T Program Agreement is a precise agreement that controls all aspects of the independent contractor agreement between its agents and ICUS (“ICUS” or “Contractor”). This Program Agreement specifically controls all aspects of permitted sales calls and the data obtained from those calls between ICUS and Subcontractor. 
+ 
+      The Program Agreement specifically controls all aspects of advertising and marketing and protects the use of the AT&T Master Service Provider Licensed Marks (“Licensed Marks”). 
+ 
+      All work product for Promotional Materials for ICUS or Subcontractor, approved by Master Services Provider or its agents, becomes the property of Master Service Provider or its agents, as applicable. In addition, all aspects of Customer Information (defined below) are strictly controlled in the Program Agreement. 
+ 
+      The Program Agreement has strict security controls, that comply AT&T’s rules and the numerous laws, rules and regulations of the governments involved. The territory of this Subcontractor Agreement is the United States of America. 
+ 
+      The ultimate relationship described in the Program Agreement is between AT&T and the Customers, not between ICUS, its Personnel, and Network, which includes Subcontractor and Subcontractor in this Subcontractor Agreement. 
+ 
+      The information and requirements of the Program Agreement will be included in this Subcontractor Agreement, and/or otherwise made available to Subcontractor on a need-to-know basis. Subcontractors are not third-party beneficiaries of the Program Agreement. 
+ 
+      In the Program Agreement, ICUS is responsible for the actions of its Personnel and Network, which includes Subcontractor. Therefore, this Subcontractor Agreement will tract along with the Program Agreement, in a way which makes certain the applicable aspects of the Program Agreement with which Subcontractor must comply are disclosed herein to Subcontractor. To further aid the Subcontractor, applicable excepts from the Program Agreement will be included herein, under the same Section numbers as are in the Program Agreement in order for the Subcontractor to fully understand the extent of its requirements in this relationship with ICUS. Applicable excerpts from Exhibits to the Program Agreement will also be included herein. 
+ 
+      The purpose of this Subcontractor Agreement is primarily to inform Subcontractor of its responsibilities and duties in order for it to be able to continue to sell AT&T Services through the Program Agreement. The requirements from AT&T as the Master Services Provider and its agents, and the laws, rules and regulations of the governing authorities that oversee the industry are detailed and specific and must be followed to the spirit and letter of the numerous requirements. 
+ 
+      Any rights that Subcontractor has from this Subcontractor Agreement are obtained through the ICUS’ Program Agreement, and then, only to the extent ICUS has the rights and extends those rights to Subcontractor. Likewise, all duties and obligations ICUS has in the Program Agreement are also duties and obligations of Subcontractor to the extent that they are applicable to Subcontractor. 
+      This Subcontractor Agreement mirrors the ICUS Program Agreement. This Subcontractor Agreement makes no attempt to increase or expand the duties and obligations of Subcontractor to ICUS, that ICUS does not also have as its duties and obligations under the Program Agreement. 
+ 
+      ICUS will provide approved Subcontractors with User ID's ("UID" or "UID's") for specific individuals within the Subcontractor’s purview or users supervised by the Subcontractor (“Users”). Users are individual persons, not entities. These ID's will be designated to and used by Users in the performance of selling the AT&T Services identified in this Subcontractor Agreement by approved individuals within the purview and supervision of the Subcontractor in specific locations. These UID's are not to be used by any other individuals. The UID's are not to be shared in any way and are for use only by the individuals to which the UID was assigned. The locations of the Users of the UID's are not to be changed without the express written permission of ICUS. All locations must comply with rules and regulations of this Subcontractor Agreement. Users of UID's must not attempt to "mask" their actual location by logging in from remote locations to a known and authorized computer system. The systems used by Users must have approved IP addresses from systems at approved locations. 
+ 
+      ICUS shall have access to supportive data-sets (e.g. Customer Sales CRM Data, Phone recordings, PCI compliant screenshots, etc.) used for fulfillment of ICUS’ audit requirements specified clearly within this Subcontractor Agreement. The access methods are listed in order of preference to ICUS. 
+ 
+a. Subcontractor signs into the ICUS infrastructure, thus giving ICUS access to these critical data-sets. 
+b. ICUS is given access to the Subcontractor’s CRM and the Phone system that the Subcontractors are using. 
+c. ICUS is supplied this supportive data on a daily basis with downloads of required the data-sets. 
+ 
+      PCI Compliance Certificates owned by the Subcontractors are to be supplied to ICUS before being issued their ID’s. These PCI Compliance Certificates are to be renewed and supplied to ICUS at least thirty (30) days prior to their expiration dates. 
+  
+I. Defined Terms 
+ 
+a. Affiliates - means with respect to any corporation, partnership, person or entity, any other corporation. partnership. person or entity directly or indirectly controlling, controlled by, or under common control (i.e., the power to direct affairs by reason of ownership of voting stock, by contract, or otherwise) with such corporation. partnership, person or entity and any member, director, officer, or employee of such person or entity. 
+ 
+b. AT&T - means Master Service Provider. 
+ 
+c. Chargeback - means the deduction of money from commissions or other compensation. 
+d. Chargeback Period - means as described in the MSA Exhibit. 
+ 
+e. Completed Activation - means the activation of service as accepted by the Master Service Provider. 
+ 
+f. Confidential Information - means as defined in Section XIV. 
+ 
+g. Customer - means residential purchaser, subject to terms and conditions or the sale, of the Equipment and Services. Business customers are not customers under this Subcontractor Agreement, and Subcontractor is prohibited from soliciting or selling to business customers under this Subcontractor Agreement. A residential consumer customer of service, including without limitation all end-users and prospective end-users of service, and all applicants to service. 
+ 
+h. Customer Information - means, to the extent received, observed, collected, handled, stored, or accessed, in any way, in connection with this Subcontractor Agreement: Customers' names, addresses (physical or electronic), and phone numbers, any such Customer's or its employee's personal, health or financial information, authentication credentials, Social Security Number, driver's license number, Internet activities, history, patterns of use and content of communications, information concerning accounts, network performance and usage information, web browsing and wireless application information, location information, any other information associated with a Customer or with persons in the household of a Customer, including, but not limited to, any other information that is linked or reasonably linkable to an individual or device, and any information available Master Service Provider or an AT&T affiliate and its suppliers (for avoidance of doubt. including Subcontractor) by virtue of Master Service Provider's or AT&T Affiliates' relationship with Customers as a provider of the services, including the quantity, technical configuration, location, type, destination, and amount or use of services, and information contained on the Customer's service bills. 
+ 
+i. Customer Proprietary Network Information (“CPNI") - means confidential information that includes the data collected by telecommunications companies, including time, date, duration, destination number of each call, the type of network a consumer subscribes to, and any other information that appears on the consumer's telephone bill or defined by the Federal Communications Commission ("FCC") as CPNI. 
+ 
+j. Door to Door - means a program created by Master Service Provider, which shall be limited to those Subcontractors that have express written consent to participate from ICUS. 
+ 
+k. Equipment - means electronic devices necessary for using the service that comply with Master Service Provider's technical standards and fraud prevention specifications and that are certified by Master Service Provider for use on the appropriate service. If the electronic device is for wireless service or is otherwise subject to government regulation, then it must also comply with all FCC and other applicable regulatory standards. 
+ 
+l. Licensed Marks - means trademarks, trade names, service marks, and any associated or related marks, whether registered or unregistered. 
+m. Master Service Provider - means a telecommunication company which provides Equipment and services. 
+ 
+n. MSA Exhibit - means the exhibit that contains Programming Packages and compensation. 
+ 
+o. Network - means the Contractor (ICUS), Contractor's employees, and anyone performing the Services on ICUS' behalf. 
+ 
+p. Offer - means the Master Service Provider's authorized pricing, terms, and conditions with respect to the services and Equipment. 
+ 
+q. Policy(ies) & Procedure(s) - means any written support manuals. policy and procedures, technical manuals, and help files that relate to the Services, services, Equipment, and Products that Master Service Provider or ICUS makes available to Subcontractor in connection with this Subcontractor Agreement, and through the services. 
+ 
+r. Products - means telecommunication products and equipment, to be exclusively bought from AT&T through ICUS (through its Program Agreement) and as listed in the Required Products Policy & Procedure. 
+ 
+s. Programming Package(s) - means as listed in the MSA Exhibit. 
+ 
+t. Service(s) - means the tasks, obligations, orders, and deliverables identified and described in this Subcontractor Agreement and as authorized to promote, market, advertise, and take orders for sale or subject to the terms, conditions, and limitations. of this Subcontractor Agreement. 
+ 
+u. SPIF’s - means limited duration sales promotion incentive funds. 
+ 
+II. Appointment and Acceptance 
+ 
+a. Appointment. Subject to and in accordance with the terms and conditions in this Subcontractor Agreement, ICUS appoints Subcontractor as a non-exclusive provider of Services and Equipment. 
+ 
+b. Acceptance. Subcontractor's acceptance of the Subcontractor Agreement is expressly limited to the terms and conditions herein contained. 
+ 
+Ill. Precedence 
+ 
+a. The MSA Exhibit is hereby incorporated by reference. 
+ 
+b. Precedence. This Subcontractor Agreement, the MSA Exhibit, and the Policy & Procedure documents form an integrated part of the whole agreement between the Parties. In the event of any inconsistency between the provisions of the documents, the inconsistency shall be resolved by giving precedence in the ranking as follows: 
+ 
+	I. 	MSA Exhibit 
+2. Subcontractor Agreement 
+ 
+3. Policy & Procedure (Marketing Tactics EXHIBIT B) 
+ 
+c. NOTICE. THESE AGREEMENTS MAY BE MODIFIED FROM TIME TO TIME TO REFLECT CHANGES IN INDUSTRY SPECIFICATIONS, STANDARDS, TECHNOLOGY, COMPENSATION, MASTER SERVICE PROVIDER REQUIREMENTS, OR BUSINESS ENVIRONMENT AT ICUS’ SOLE DISCRETION. 
+ 
+d. Subcontractor Policy & Procedure and Supplements. Subcontractor must comply with all policies governing the conduct of Subcontractor's business under this Subcontractor Agreement reasonably prescribed from time to time by ICUS (through the Program Agreement). All policies, including but not limited to the Marketing Tactics Dealer Policy, issued by ICUS under this Subcontractor Agreement are incorporated by reference in this Subcontractor Agreement in their entirety. Subcontractor’s failure to comply with any the Policy & Procedures is a material breach of this Subcontractor Agreement and may subject Subcontractor to monetary remedies as specifically outlined in any Policy & Procedure, forfeiture of Subcontractor's right to sell certain Equipment, services. or Services, termination of the Subcontractor Agreement, or other remedies identified in the Policy & Procedure. ICUS will provide written notice to Contractor of any new Polices & Procedures or of any changes to existing Policies & Procedures via Subcontractor administration communication email (“SAC Email”): 
+ 
+Company email 	ahsandb@icloud.com 
+ 
+Subcontractor shall also comply with other operational manuals, procedural guides, or information statements that ICUS or Master Service Provider may issue from time to time and cooperate and comply with any investigation into complaints that Subcontractor is in violation of any Policy & Procedure. Subcontractor shall check for receipt of emails from ICUS or Master Service Provider at the SAC Email for updates. 
+ 
+IV. Independent Contractor and the ACA 
+ 
+a. Independent Contractor. The relationship established by this Agreement between Subcontractor and ICUS is that or an independent contractor and does not directly or indirectly give rise to any other relationship, including without limitation, that of joint employers, joint venture, a partnership, or a franchisor-franchisee relationship. Personnel employed by or acting under the authority of a party of this Agreement are not employees or agents of the other party. ICUS and Subcontractor assume sole responsibility for the employment, compensation, discharge, and control of their own respective employees, subcontractors, contractors, and agents, and for ensuring their compliance with this Subcontractor Agreement and with federal and state laws. Subcontractor and ICUS have not expressed or implied authorization to incur any obligation or commitment on behalf of the other Party, unless specifically approved in writing by an authorized Party official. 
+b. Authorized Independent Business. Subcontractor may represent itself as an independent business authorized to sell its services and Equipment of a Master Service Provider. Subcontractor shall conduct its business at its own initiative, responsibility, and expense. 
+ 
+c. Affordable Care Act. For purposes of the Affordable Care Act (ACA), and in particular for purposes of Section 4980H of the Internal Revenue Code of 1986, as amended, and the regulations thereunder, with respect to each individual provided by Subcontractor to perform any work under this Subcontractor Agreement for at least thirty (30) hours per week for at least ninety 
+(90) days, whether consecutive or not, Subcontractor represents and warrants that Subcontractor, any Affiliates, or Network is the common law employer of such individual and shall be responsible for either providing healthcare coverage as required by the ACA (to the extent applicable) or for paying any Section 4980H assessable payments that may be required for failure to provide to such individual: health care coverage, or affordable healthcare coverage. Subcontractor is required to maintain for a period of ten (10) years information to show compliance with the ACA notwithstanding any other provision in this Subcontractor Agreement to the contrary. 
+ 
+V. Territory, Term, Termination, Suspension, and Effect or Termination 
+ 
+a. Territory. The Territory shall include and be limited to the United States, its territorial waters and the areas contained within the United States (including, without limitation, Washington, D.C., embassies, and Indian reservations). 
+ 
+b. Term. This Subcontractor Agreement is effective upon execution ("Effective Date) and remains in effect for a period of one (1) year ('"Initial Term"). After the Initial Term concludes, the term of one (1) year shall renew ("Renewal Term"), upon the same terms and conditions and automatically thereafter for an unlimited number of successive Renewal Terms. 
+ 
+c. Early Termination. The applicable Party shall have the right to terminate this Subcontractor Agreement without liability as follows: 
+ 
+1. By either Party upon written notice to the other Party for any reason whatsoever, or for no reason ten (l0) days after a Party provides notice of termination. 
+ 
+2. By ICUS upon any material breach of this Subcontractor Agreement or breach of any Policy & Procedure by Subcontractor, immediately after ICUS' notice of termination to Subcontractor. 
+ 
+3. By ICUS and Subcontractor upon mutual written agreement to terminate. 
+ 
+4. By Subcontractor, immediately upon notice if any civil judgment against 
+Subcontractor or any officer, director, major stockholder, employee, or contractor of Subcontractor that materially affects Subcontractor's ability to carry out its obligations under this Subcontractor Agreement immediately after ICUS’ notice of termination to Subcontractor. 
+ 
+5. By ICUS, if Subcontractor assigns this Agreement or any part thereof without ICUS’ prior written consent, immediately after ICUS’ notice of termination to Subcontractor. 
+6. By ICUS, if Subcontractor becomes involved in a bankruptcy proceeding, or Subcontractor makes a general assignment for the benefit of creditors, immediately after ICUS’'s notice of termination to Subcontractor. 
+ 
+7. By ICUS without prior notice or any opportunity to Subcontractor to cure, if Subcontractor fails to pay ICUS any ICUS’ invoice when due, immediately after ICUS’ notice of termination to Subcontractor; or 
+ 
+8. If Subcontractor commits any act in connection with this Subcontractor Agreement which involves dishonesty or moral turpitude, immediately after ICUS’ notice of termination to Subcontractor. 
+ 
+d. No Waiver. Termination of this Subcontractor Agreement under this Section will be without prejudice to any other remedy, which may be available to a Party under applicable law. 
+ 
+e. Termination by Master Service Provider. Master Service Provider may, for any reason and without prior notice or opportunity to cure, terminate its relationship with ICUS or require ICUS to terminate Subcontractor. Upon occurrence of any of these circumstances, ICUS shall have the right to terminate Subcontractor and all or part of this Subcontractor Agreement immediately upon written notice to Subcontractor. 
+ 
+f. Defaults. If Subcontractor is in default of any of the obligations under this Subcontractor Agreement and such default continues for five (5) days after written notice thereof by ICUS, ICUS may, in addition to all other rights and remedies provided by law or this Subcontractor Agreement, terminate this Subcontractor Agreement which may be affected by such default. 
+ 
+g. Effects of Termination. 
+ 
+1. Subcontractor shall cease to be ICUS’ authorized Subcontractor, under this Subcontractor Agreement and all rights and licenses granted to Subcontractor hereunder shall cease. 
+ 
+2. Contractor shall immediately: 
+ 
+I. Cease all sale and installation of the Services and Equipment. 
+ ii. 	Discontinue any use of the Licensed Marks. 
+ iii. Cease to promote, solicit, or procure orders for the services. 
+ 
+iv. Cease acting as and representing itself in any fashion as a contractor or representative of ICUS, Master Service Provider and its Affiliates. 
+ 
+v. Pay any and all obligations over to ICUS. 
+vi. Preserve the goodwill and name of ICUS, Master Service Provider, and
+Affiliates. 
+ 
+vii. Cease soliciting Customers in accordance with the non-solicitation provision of this Subcontractor Agreement. 
+ viii. At ICUS’ election and within ten (10) business days, return or destroy those documents, records, software. and other materials (including all copies, either photocopies or electronic copies) that were provided to Subcontractor by ICUS or that contain any Confidential Information, including without limitation, all information related to Subscribers and all CPNI. 
+ 
+ix. At ICUS election and within ten (10) business days, return all Equipment maintained by Subcontractor to ICUS in its original condition, with costs for such return to be borne by Subcontractor. 
+ 
+3. In the event that ICUS terminates this Subcontractor Agreement pursuant to any provision of this Subcontractor Agreement, ICUS and Master Service Provider shall not be liable for any lost profits or consequential damages resulting from such termination and as further described in Section XV c. 
+ 
+4. Hold Period. Upon termination of this Subcontractor Agreement and excluding Subcontractor from contracting with AT&T directly, Subcontractor's ability to earn all forms of compensation under this Subcontractor Agreement shall be temporarily suspended as of that effective termination date, for any compensation from ICUS, including without limitation, commissions. or SPlF’s. The hold period shall be two hundred and ten (210) days. During the hold period, ICUS can offset/recoup any compensation owed to Subcontractor for any amount owed during the hold period. 
+ 
+h. Suspension by ICUS. 
+ 
+1. ICUS may suspend Subcontractor's ability to solicit, offer, or perform, any Services related to services, Equipment, or the installation of Equipment at any time, with or without cause, in whole or in part, upon written notice to Subcontractor. In such event, Subcontractor shall discontinue performing the Services, selling the Equipment, or installing the Equipment, and thereafter resume performance when directed to do so by ICUS. 
+ 
+2. If ICUS reasonably suspects Subcontractor is acting fraudulently or illegally, ICUS may immediately suspend this Subcontractor Agreement to investigate the 
+Subcontractor's conduct. If a breach, fraudulent act, illegal activity, or other failure is discovered, ICUS may terminate this Subcontractor Agreement immediately. In addition to those provisions, the following provisions also apply: 
+ 
+I. ICUS has no obligation to provide specific conclusions or findings of an investigation to Subcontractor. 
+ii. ICUS has no obligation to pay until the issue(s) are resolved. 
+ 
+iii. Any Completed Activations during suspension or before a required notice period has expired may be subject to monetary Chargeback or may be rejected by ICUS; and 
+ 
+iv. If Subcontractor fails to pay ICUS any amounts due under this Agreement, ICUS may terminate this Subcontractor Agreement and offset and recoup any amounts due to ICUS from Subcontractor against amounts due from Subcontractor. 
+ 
+i. Notices. All notices, demands, requests, or other communications that may be or are required to be given, served, or sent by either Party to the other Party pursuant to this Subcontractor Agreement ("Notice") shall be in writing and shall be deemed to have been given, if delivered personally by messenger or transmitted by facsimile (with receipt confirmed), electronic mail, or the day following delivery to a reputable overnight courier that guarantees delivery within twenty-four (24) hours addressed to the respective Parties as set forth below, or to such other addresses as either Party may substitute by Notice to the other: 
+ 
+1. If to Contractor: 
+Address as identified in the signature block. 
+ 
+2. If to ICUS: 
+Roberto Gutierrez, President 
+2615 Medical Center Parkway, Ste.1560 Murfreesboro TN 37129 
+ 
+VI. Scope of Services 
+ 
+a. ICUS, in its sole discretion, shall have the right to approve or reject any and all selling or marketing locations of Subcontractor. 
+ 
+b. Subcontractor will provide all Services in a professional manner, consistent with the terms and conditions of this Agreement. 
+ 
+c. Subcontractor is not authorized by ICUS to install Equipment or provide any other Service or Product not specifically authorized by this Subcontractor Agreement. 
+ 
+VlI. Subcontractor Responsibilities and Representations 
+ 
+a. All Services and sale of Equipment performed under this Subcontractor Agreement shall be performed to the satisfaction of ICUS, Master Service Provider and its agents. Subcontractor shall be entitled to payment earned as a result of Services provided or sale of Equipment hereunder so long as the Services are performed, and Equipment are sold in accordance with the requirements set forth in this Subcontractor Agreement. Subcontractor is not authorized to act for or on behalf of ICUS, Master Service Provider or its agents except as specifically outlined herein. 
+b. Subcontractor shall adhere to all work rules, Policy & Procedure, and regulations Master Service Provider and ICUS establish, including the code of conduct which has been updated by email to the SAC Email. 
+ 
+c. Subcontractor shall train and require its employees to comply with all applicable laws, regulations, orders, and rules, including but not limited to CPNI compliance, workers' compensation (as applicable), and the Policies & Procedures, and methods as communicated to Subcontractor. 
+ 
+d. CPNI. To the extent that Subcontractor obtains or uses CPNI in connection with this Subcontractor Agreement, Subcontractor is an agent, through ICUS, of the Master Service 
+Provider with respect to the receipt and use of this CPNI. Subcontractor must receive and use 
+CPNI consistently with the CPNl Restrictions, and in the manner specified in this Subcontractor Agreement with respect to "Confidential Information." These requirements include, but are not limited to, the following: Subcontractor must: 
+ 
+I. not use any CPNI to market or otherwise sell Equipment or services, except to the extent necessary to perform Services as permitted under this Subcontractor Agreement. 
+ 
+2. make no sale, license, or lease of CPNI to any other party. 
+ 
+3. restrict access to CPNI to only those employees of Subcontractor that require access to perform services under this Subcontractor Agreement. 
+ 
+4. comply with all data security requirements issued in writing by ICUS under this Subcontractor Agreement. 
+ 
+5. not use any CPNI for unauthorized or improper purpose; and 
+ 
+6. promptly return all CPNI to ICUS upon termination or expiration of this Subcontractor Agreement, unless expressly agreed or instructed otherwise by ICUS. In addition to adhering to these requirements, Subcontractor should consult with its own independent counsel regarding all laws and regulations that pertain to the protection of consumers' personal information. 
+ 
+e. Subcontractor shall follow all Policies & Procedures, including but not limited to those policies that related to the Services and Equipment, provided by Master Service Provider or ICUS in connection with this Subcontractor Agreement. 
+ 
+f. Monitoring. ICUS or Master Service Provider shall have the right to, with not less than forty- eight (48) hours in advance Notice to Subcontractor, to observe, monitor, and record to the extent permitted by law and at ICUS’ or Master Service Provider's discretion. 
+ 
+g. Training. Subcontractor will provide information and on-going training to its employees on the nature and features of the Equipment, Services, and the order process. Except to the extent set forth herein, hours associated with curriculum development and classroom training are included in the Subcontractor's overhead and shall not be charged to ICUS. 
+h. Records and Reports. Subcontractor shall maintain records, including all marketing, sales, and Services provided under this Subcontractor Agreement for a period of four (4) years after termination of this Subcontractor Agreement. 
+ 
+i. Warranty to ICUS. 
+ 
+1. Subcontractor represents and warrants that all Services will be performed in a professional manner, and in conformance with this Subcontractor Agreement, and any other written description of the Equipment, services, or Services (including web based or other electronic presentation); and that it will exercise that degree of skill and cure commensurate with high standards generally associated with 
+Subcontractor's industry and area of expertise. 
+ 
+2. Subcontractor represents and warrants that it will comply in all material respects with all applicable federal, state, and local laws and regulations, including but not limited to all applicable United States FCC rules and regulations governing access to, use and storage of Customer Information. 
+ 
+3. Subcontractor represents and warrants that there is no action, suit, proceeding, claim, or investigation pending, or to the best of Subcontractor’s knowledge, threatened against, or affecting Subcontractor in any court or government department, commission, board, or agency that, if adversely determined, might adversely affect, or restrict Subcontractor’s performance hereunder. 
+ 
+4. Subcontractor shall not offer or sell services through any third-party; share any compensation earned under this Subcontractor Agreement, directly or indirectly, with any other person or entity that sells service; or allow any other person or entity to use any codes or ICUS system log on credentials issued by ICUS, Master Service Provider or its agents to Subcontractor hereunder. Any exceptions to these prohibitions must be under a separate written amendment between the parties or be expressly written in a current Policy & Procedure. 
+ 
+5. Subcontractor is prohibited from interfering with the contractual relationship between Master Service Provider and Customers in any way. Subcontractor is not permitted to bill or collect or attempt to collect any money from a Customer or potential Customer for Services or Equipment, except for as may be expressly agreed to in writing by ICUS; take any financial responsibility for a Customer's service charges or provide any form of financing related to the Services or Equipment, including making payment on behalf of the Customer via a Subcontractor credit/debit card or other form of payment, as a dosing tool or otherwise; suggest or facilitate any arrangement to improperly decrease a Customer's financial obligation with respect to Services; or require a Customer to pay any fee or charge to Subcontractor that in any way changes the terms of a service offer. 
+ 
+6. ICUS reserves the right to declare any service as non-authorized service by restricting Subcontractor from selling such service: on certain service rate plans or features; on certain types of technologies; on certain models or types of Equipment; to certain specifically enumerated Customers; to certain categories of Customers, such as those that generate revenues above a specific level or government or corporate entities; and by certain sales and marketing methods. All applicable restrictions are, or will be, set forth in the Policies & Procedures or may be communicated to Subcontractor in writing from time to time. 
+ 
+j. ICUS and Subcontractor understand and accept that the terms, conditions, and covenants contained in this Subcontractor Agreement are reasonably necessary to maintain ICUS' and AT&T’s high standards for service and to protect and preserve the goodwill of ICUS', AT&T's, and AT&T Affiliates' brand and the services. Subcontractor represents and acknowledges that it has made material representations to ICUS in its application to become an authorized Subcontractor of ICUS and that ICUS has relied upon these representations as a material inducement to enter into this Subcontractor Agreement. 
+ 
+k. Subcontractor represents and warrants to ICUS that the execution and performance of this Subcontractor Agreement does not violate any other contract or obligation to which Subcontractor or any Affiliate is a party, including without limitation, terms relating to exclusivity, covenants not to compete, exclusive dealing, and confidentiality. Subcontractor must not disclose to ICUS, or use or induce ICUS to use, any proprietary information or trade secrets of any other person, association, or entity. 
+ 
+l. ICUS expressly disclaims the making of, and Subcontractor acknowledges that Subcontractor and its Affiliates have not received, have no knowledge of, and are not relying on any representation by any employee or representative of the ICUS, Master Service Provider or its agents as to: the revenue or profitability that Subcontractor might achieve as a result of entering into this Subcontractor Agreement; the number of service activations, upgrades, or other business activity that Subcontractor may facilitate as a result of entering into this Subcontractor Agreement; quality of the service or the network, satellites or technology from which services are provided; or any other factor relating to the business operations of Subcontractor, except as expressly set forth in this Subcontractor Agreement. Subcontractor represents that it has independently investigated the risks and opportunities of the business outlined in this Subcontractor Agreement and has independently decided to sign this Subcontractor Agreement, with the opportunity to seek the advice of counsel before signing. 
+ 
+m. Required ICUS Systems and Required Equipment (from Master Services Provider and its Agents). If ICUS, in its sole discretion, provides Subcontractor access to any of ICUS' or AT&T's systems for purposes of performing Subcontractor's duties under this Subcontractor Agreement, Subcontractor and its Affiliates (if any such affiliates of Subcontractor are authorized by ICUS herein) must use this access only for the purpose authorized explicitly in writing by ICUS and comply with all system and equipment requirements provided by ICUS. If ICUS provides any equipment or software for this purpose, the equipment and software are the sole property of ICUS (or the agents of Master Services Provider, as identified by ICUS), at all times, and any software may be subject to a separate license agreement. ICUS, in its sole discretion, may limit, restrict, or block Subcontractor's and any authorized Affiliates' access to ICUS’ systems (or systems of the Master Services Provider’s agents, as identified by ICUS) as ICUS in its sole discretion deems necessary to protect ICUS and such agents.
+n. NON-SOLICITATION. WHILE THIS SUBCONTRACTOR AGREEMENT IS IN EFFECT AND FOR THREE (3) YEARS AFTER IT TERMINATES OR EXPIRES, SUBCONTRACTOR AND 
+ITS AFFILIATES MUST NOT KNOWINGLY CONTACT CUSTOMERS WHO CONDUCTED ANY 
+BUSINESS WITH SUBCONTRACTOR UNDER THIS SUBCONTRACTOR AGREEMENT FOR 
+THE PURPOSE OF: SOLICITING OR GIVING ANY INCENTIVE TO THOSE CUSTOMERS TO TERMINATE THEIR SUBCONTRACTOR AGREEMENT WITH THE MASTER SERVICE PROVIDER OR ITS AFFILIATES; OR CONVERTING THOSE CUSTOMERS TO A 
+COMPETITIVE SERVICE. DURING THE THREE (3) YEAR PERIOD AFTER THIS 
+SUBCONTRACTOR AGREEMENT TERMINATES OR EXPIRES. IF ANY PERSON KNOWN TO 
+BE A CUSTOMER CONTACTS SUBCONTRACTOR OR ITS AUTHORIZED AFFILIATES 
+REGARDING ANY ASPECT OF SERVICE, SUBCONTRACTOR AND ITS AUTHORIZED AFFILIATES MUST REFER THE PERSON DIRECTLY TO THE MASTER SERVICE PROVIDER. 
+ 
+o. Solicitation and Enrollment. Subcontractor and its authorized Affiliates must solicit Customers strictly in accordance with the Policies & Procedures for enrollment of Customers. ICUS and/or Master Service Provider’s agents have the sole right to accept or reject all applications for Service. Subcontractor must market services that Subcontractor is authorized to sell to potential Customers at rates and on terms and conditions established and published solely by ICUS, as revised by ICUS (through Master Service Provider’s agents in the Program Agreement) from time to time. Subcontractor has no right or authority to offer any other service plans, or to vary in any way, rates, rate plans, terms, or conditions related to service. Subcontractor must comply with any Policies and Procedures regarding security deposits for service. Subcontractor shall comply and ensure its authorized Affiliates comply with all ICUS’ requirements related to customer disclosure statements governing the sale of services and implement processes and procedures to monitor and ensure that Subcontractor is following such requirements with every Customer served by Subcontractor. 
+ 
+p. Customer is AT&T's Customer. Once activated under this Subcontractor Agreement, the Customer is a customer of AT&T, and AT&T is solely responsible for providing billing services to Customers. ICUS, Master Service Provider’s agents and any AT&T Affiliates may also directly market to and solicit Customers for any purpose, without obligation or liability to Subcontractor. Subcontractor must not interfere with the contractual relationship between AT&T and Customer in any way. 
+ 
+q. Fraudulent Activity. Subcontractor and its authorized Affiliates must not engage in any fraud and must assist ICUS' and Master Service Provider’s agents’ efforts to prevent any fraudulent activity under or related to this Subcontractor Agreement, including without limitation, fraudulent, or abusive subscription to or use of service or access to a Customer account, accessing Customer accounts for fraudulent or improper purposes, providing false or fictitious Customer Information, and Subcontractor must comply with all fraud prevention Policies and Procedures. Subcontractor must not process any application for service or facilitate service that would in any way improperly inflate the compensation it receives. If ICUS determines that Subcontractor or its authorized Affiliates have engaged in fraud or performed any Customer activations or facilitated any services for any Customer in a fraudulent, deceitful, or misleading manner, then ICUS may take any action it reasonably believes appropriate, including without limitation, termination of this Subcontractor Agreement immediately upon written notice to Subcontractor without opportunity to cure. Under such circumstances, Subcontractor is also not entitled to compensation under this Subcontractor Agreement for this activity and Subcontractor is required to compensate ICUS for losses caused by Subcontractor or its authorized Affiliates actions in violation of this Section or of the related Policies and Procedures, including but not limited to any amount ICUS is compelled, or in its reasonable judgment according to its standard practices decides, to pay or credit a Customer in compensation for such Subcontractor activity. Subcontractor agrees to fully cooperate with any 
+ICUS’ investigations, including investigations of fraud and breaches or misuse of Confidential Information, including Customer information. 
+ 
+r. Minimum Performance Requirements. ICUS may require Subcontractor to achieve minimum performance requirements related to Subcontractor's sales and Service performance of any service sold under this Subcontractor Agreement, as specifically set forth in Exhibit MSA, Policy & Procedure or other written notice ("Minimum Performance Requirement"). ICUS may add additional Minimum Performance Requirements, or modify existing Minimum Performance Requirements in any way, with ten (10) days advance written notice to Subcontractor. In addition to any other rights hereunder, in the event Subcontractor fails to meet any Minimum Performance Requirement, ICUS may alter its right to perform Services under this Subcontractor Agreement and the MSA Exhibit immediately upon written notice to Subcontractor, without opportunity to cure. 
+ 
+s. Background Checks and Drug Testing. 
+ 
+1. Subject to any laws to the contrary, Subcontractor shall make all reasonable efforts, including checking the background, and verifying the personal information to verify whether any in Subcontractor's employ whom Subcontractor proposes to perform any work under this Subcontractor Agreement that permits physical, virtual, or other access to AT&T, AT&T Affiliates', agents’, ICUS’, or Customers’ systems, networks, 
+Confidential Information, or Customer premises (“Access") at any time during the Term. Subcontractor shall not use any person who has been convicted of any felony, or has been convicted of any misdemeanor involving violence, sexual misconduct, theft or computer crimes, fraud or financial crimes, drug distribution, or crimes involving unlawful possession or use of a dangerous weapon (“Conviction") or is identified on any government registry as a sex offender ("Sex Offender Status"), and in addition to the requirements of the preceding sentences, Subcontractor shall perform a test on any of Subcontractor's employees or authorized Affiliates for use of illicit drugs (including opiates, cocaine, cannabinoids, amphetamines, and PCP), unless such test is not permitted by applicable law ("Drug Screen''), whom Subcontractor proposes to have Access to Customer's premises. Subcontractor shall not permit any such person in Subcontractor's employ presenting a positive Drug Screen or a Conviction to have such Access. 
+ 
+2. Subcontractor shall comply with the obligations of this Subsection “s” performing a background check of applicable records for those counties, states, and federal court districts, and in which a proposed member of the Subcontractor has identified as having resided, worked, or attended school in the previous ten (10) years, unless a shorter period is required by any federal, state, local or country law. 
+3. Subcontractor acknowledges and agrees that it is Subcontractor's sole and exclusive responsibility to determine whether a person in Subcontractor's employ has a Conviction or Sex Offender Status and that has a reasonable relationship to the individual's fitness or trustworthiness to perform the work subject to applicable laws on the consideration of criminal convictions in making employment decisions. If, however a person in Subcontractor's employ needs to have Access, ICUS may require additional background information about and/or drug screening for the Subcontractor, when required by applicable law or regulation, before permitting that individual to have Access. 
+ 
+4. Subcontractor represents and warrants to ICUS that, to the best of its knowledge, no person in Subcontractor's employ has falsified any of his or her identification credentials or failed to disclose any material information relevant to the performance of any work. Any person in Subcontractor's employ who has falsified such identification credentials or failed to disclose such information shall not have Access or perform work for Master Service Provider under this Subcontractor Agreement. Subcontractor shall maintain records of all background checks and Drug Screens performed for any person in Subcontractor’s employ under this Subcontractor Agreement for a period of ten (10) years, or for such shorter period if provided by applicable law, for ICUS to verify compliance with this Section. 
+ 
+5. For the avoidance of doubt. the provisions in this Section apply to all persons in Subcontractor's employ regardless of hire/retention date. 
+ 
+VIII. Order Process 
+ 
+a. Subcontractor Codes; UIDs; and Order Submission. ICUS will issue a separate Subcontractor code(s) in writing, and the Subcontractor code(s) may only be used by, and must be used for, Orders procured by the Subcontractor. Subcontractor shall not be eligible to sell Services unless they have received a unique ID ("UID") from ICUS. Subcontractor shall apply for UIDs using a process identified by ICUS. Orders and any changes to the Orders procured by Subcontractor shall be submitted using any method or system approved in writing by ICUS, which approval may be withdrawn by written notice to Subcontractor at the SAC Email. 
+ 
+b. Subcontractor shall submit Orders in accordance with the following: 
+ 
+1. Subcontractor will submit all Orders in accordance with any Order submission process as described to Subcontractor by ICUS. In the event of any changes, ICUS shall provide a commercially reasonable effective date for when the new Order submission is to be followed. 
+ 
+2. Subcontractor solicits and takes Orders from a Customer and transmits as required, along with all information, documents, and money required by Master Service Provider which may be accepted in its sole discretion. Master Service Provider, its agents, or ICUS, as applicable, shall have the right to determine, at its/their sole discretion, whether a Customer or potential Customer constitutes a Customer under this Subcontractor Agreement. 
+c. Subcontractor shall promptly transmit to ICUS all Orders which Subcontractor solicits under this Subcontractor Agreement as set forth by ICUS, Master Service Provider or its agents’ Policies & Procedures. Subcontractor shall provide reasonably adequate staff to support all account setup and Order transmission activities in a timely and professional manner. 
+ 
+d. Subcontractor shall solicit Orders (or renewal Orders) from Customers. 
+ 
+e. To the extent that Subcontractor elects to use an ICUS approved third-party Order processing support service, then Subcontractor shall he responsible for the cost. 
+ 
+IX. Commission Validation, Payment, and Dispute Process 
+ 
+a. ICUS will pay JNA Accounting the commissions applicable to each Completed Activation which has been entered into the JNA CRM in accordance with the process and conditions outlined in this Subcontractor Agreement, which may be modified by ICUS from time to time. 
+ 
+b. ICUS may, upon written request, require Subcontractor to sign an affidavit stating that all of Subcontractor's employees have been paid to date. If ICUS makes such a request, ICUS' payment obligations will be suspended until Subcontractor provides the affidavit or other reasonable request for such proof of payment required by ICUS. 
+ 
+c. ICUS may withhold payment of all amounts relating to any Equipment, Services, or Completed Activation that are the subject of any pending fraud investigations, arbitration, or any other disputes or audits between the Parties until such matters are resolved or settled. 
+ 
+d. Payment Disputes. All of Subcontractor’s payment related disputes must be emailed to: ICUS at accounting@impactconnectus.com within ninety (90) days from Completed Activation. 
+ 
+e. Compensation Attachments. Subject to the terms and conditions of this Subcontractor Agreement, Subcontractor will earn from ICUS the compensation set forth in the applicable MSA Exhibit. The MSA Exhibit shall specify all of the compensation that Subcontractor is eligible to earn subject to the terms and conditions of this Subcontractor Agreement. 
+ 
+f. Modifications. ICUS may modify the terms and conditions or the payment amounts (including elimination of payment) of every type of compensation offered under this Subcontractor Agreement in any way with at least ten (10) days advance written notice to Subcontractor. ICUS may, without advance notice to Subcontractor, stop offering any Equipment, service plans, or other products and Services, or may introduce new or revised Policy and Procedures, Services, Equipment, Product, or new services with different compensation than what is set forth in the MSA Exhibit, or introduce or withdraw SPlF’s. Subcontractor's consent is not required to implement any such changes. 
+ 
+g. Offset/Recoupment. ICUS may, at any time, offset and recoup against any and all amounts owed Subcontractor or its authorized Affiliates any amounts owed or to be owed by Subcontractor or its Affiliates to ICUS and/or AT&T Affiliates or agents, as applicable, including without limitation, amounts owed under this Subcontractor Agreement, or any other Subcontractor Agreement, and any costs or damages incurred by ICUS or subject to indemnification by Subcontractor. 
+h. Compensation Net of Chargebacks. All compensation earned by Subcontractor under this Subcontractor Agreement for a Customer must be paid back to ICUS if the Customer deactivates the service or other changes to service occur that constitute a Chargeback, as more specifically described in the MSA Exhibit. The time period in which a Chargeback applies is set forth in the MSA Exhibit. Subcontractor is not eligible to receive any compensation generated under this Subcontractor Agreement until after Subcontractor's Chargebacks have been deducted. Notwithstanding the foregoing, Chargeback liability shall still exist as further described in Section X. 
+ 
+i. No Rebates or Sharing. Subcontractor shall not rebate or share any compensation with another Subcontractor of ICUS, or any other party, in accordance with this Subcontractor Agreement. Subcontractor may not combine any referrals with another independent subcontractor or referral subcontractor. Subcontractor acknowledges that any Orders submitted under another subcontractor's account number or through such other subcontractor's electronic interface with ICUS shall not be credited to Subcontractor for purposes of calculating Compensation. 
+ 
+j. Compensation Reconciliation. To the extent Subcontractor believes that it has completed any transaction for which Subcontractor is entitled to compensation under this Subcontractor Agreement and ICUS has not paid, or has underpaid or overpaid, Subcontractor for such transaction, prior to raising any dispute with respect to such transaction, Subcontractor must submit such transaction to ICUS for reconciliation through ICUS' standard reconciliation process. ICUS will perform an independent review of all transactions so submitted to determine if ICUS erroneously failed to pay, overpaid or underpaid Subcontractor for such transaction, and ICUS will adjust compensation to reflect the results of such reconciliation. Reconciliation is a mandatory prerequisite to raising any dispute regarding payment for a transaction. Subcontractor must request reconciliation within ninety (90) days of the issuance or the compensation statement which contains the disputed transaction to be reconciled. Subcontractor's failure to request a reconciliation within such ninety (90) day period is an absolute bar to raising any disputes regarding compensation for such transaction. 
+ 
+k. Subcontractor Compensation. ICUS shall pay Subcontractor for Services completed to the full satisfaction of ICUS, Master Service Provider or its agents. 
+ 
+X. Chargebacks 
+ 
+a. All Chargebacks may be deducted from commission or other compensation properly owed to Subcontractor. 
+1. lf ICUS discovers any fraudulent activity related to Subcontractor's actions or omissions ("Fraudulent Activities") that have improperly caused ICUS to pay commissions or other compensation to Subcontractor or owe any commissions or other compensation to Subcontractor under this Subcontractor Agreement, all applicable commissions, or other compensation paid to Subcontractor related to the Fraudulent Activities are subject to Chargeback, or ICUS may withhold all unpaid commission or other compensation otherwise owed to Subcontractor related to the Fraudulent Activity. 
+2. If the commission or other compensation for the applicable payment period is insufficient to cover such Chargebacks, ICUS may offset the balance from any other amounts owed to Subcontractor, including balances owed to Subcontractor in subsequent payment periods. In addition, ICUS retains the right to cancel the applicable completed order or suspend or deactivate any service in the event of Subcontractor's Fraudulent Activities or suspected Fraudulent Activities. This provision does not alter any other remedies available to ICUS under the Subcontractor Agreement or at law or equity. 
+ 
+b. Right to Audit. 
+ 
+1. Subcontractor shall maintain complete and accurate records of all invoices and all amounts billable to and payments made by ICUS in accordance with generally accepted accounting practices. Subcontractor shall retain such records for a period of four (4) years from the completion of the performance of Services covered by this Subcontractor Agreement, and shall make them available to ICUS upon request, subject to applicable federal and state laws. Notwithstanding the foregoing, in the event of a dispute, Subcontractor shall retain all related records through resolution of such dispute. 
+ 
+2. ICUS shall have the right to conduct risk assessments or inspections of 
+Subcontractor's equipment, systems, network, and other facilities that will be used in connection with this Subcontractor Agreement. ICUS can nominate an agent to perform audits on behalf of ICUS. 
+ 
+3. During the Term of this Subcontractor Agreement and for one (1) year following the Term of the Subcontractor Agreement, Subcontractor shall allow ICUS and its authorized agents upon not less than live (5) business days notice to audit Subcontractor's records or systems related to this Subcontractor Agreement for verification of Subcontractor’s compliance with all provisions of this Subcontractor Agreement, subject to applicable federal and state laws. At ICUS' request, the auditor shall have access to Subcontractor's records and systems related to this Subcontractor Agreement for purposes of audit during normal business hours during the term of this Subcontractor Agreement and for one (I) year following the termination of this Subcontractor Agreement. 
+ 
+4. ICUS reserves the right to examine, or to have its authorized agents examine, all electronic mail messages, files, and other data ("Data"), on Subcontractor's information systems, networks, and equipment to the extent that such Data originates, terminates, or passes through ICUS' Master Service Provider or its agent's information systems networks and equipment. Furthermore, ICUS reserves the right to monitor, or to have its authorized agent monitor, such activity to determine if access is being abused, Data is secure, and Subcontractor is using ICUS’, Master Service Provider's or its agents’ systems only for the purpose of fulfilling Subcontractor's obligations under this Subcontractor Agreement. 
+5. Subcontractor shall cooperate and participate in such security testing as deemed necessary by ICUS to ensure that ICUS', Master Service Provider's or its agents’ information is not vulnerable to unauthorized disclosure or misuse due to products, services, and personnel provided by Subcontractor. 
+ 
+XI. Intellectual Property and Marketing 
+ 
+a. Subject to the terms and conditions specified in this Subcontractor Agreement, ICUS hereby grants to Subcontractor, for the term of this Subcontractor Agreement, a non-exclusive, non- assignable revocable license to use the Licensed Marks only as defined by this Subcontractor Agreement. 
+ 
+b. Subcontractor shall not use the Licensed Marks in any format other than the most recent graphic configuration set forth by Master Service Provider, its agents or ICUS. Subcontractor shall not use any of the Licensed Marks as part of its corporate name, trade name, or business name. Subcontractor further agrees to abide by such Policies & Procedures, standards, and practices regarding the use of the Licensed Marks as ICUS, Master Service Provider or its agents may establish from time to time. 
+ 
+c. Subcontractor acknowledges the value of the Licensed Marks and the goodwill associated therewith and acknowledges that such goodwill is a property right belonging to Master Service Provider or its Affiliates and that Master Service Provider or its Affiliates are the owners of all trademarks, service marks, trade names, and other rights in the Licensed Marks. Subcontractor acknowledges that nothing contained in this Subcontractor Agreement is intended as an assignment or grant to Subcontractor of any right, title, or interest in or to the Licensed Marks. Subcontractor shall not challenge the title or any right of Master Service Provider or its Affiliates in and to the Licensed Marks or benefit there from or make any claim or take any action adverse to Master Service Provider's or its Affiliates' ownership of the Licensed Marks. All rights, if any, that may be acquired by use of the Licensed Marks by Subcontractor shall inure to the benefit of and be on behalf of Master Service Provider and its Affiliates. Subcontractor shall not adopt, use (other than as authorized herein), register, or seek to register any trade name, trademark, or service mark anywhere in the world which is identical to any Licensed Mark or which is so similar thereto as to constitute a deceptive colorable imitation thereof or to suggest or imply some association, sponsorship or endorsement by Master Service Provider or its Affiliates. ICUS makes no warranties regarding Master Service Provider's ownership of any rights in or the validity of any Licensed Marks. Subcontractor agrees to notify ICUS promptly upon becoming aware of any unauthorized use of the Licensed Marks. Master Service Provider and its Affiliates shall have the sole right to engage in infringement or unfair competition proceedings involving the Licensed Marks. 
+ 
+d. Upon termination or expiration of this Subcontractor Agreement, the license to use the Licensed Marks granted hereunder shall automatically terminate, and Subcontractor shall immediately cease any use of such Licensed Marks. Subcontractor shall also promptly destroy or return to ICUS all materials, except material required to be retained by Subcontractor for accounting and record keeping purposes in the ordinary course of its business. 
+e. Nothing in this Subcontractor Agreement shall be construed as granting any license, or allowing either Party to take any license, under any invention, trade secret, patent, copyright, trademark, or other intellectual property right of the other Party. 
+ 
+f. In consideration of this Subcontractor Agreement, Subcontractor agrees and represents that it will not commit any act of infringement regarding any of Master Service Provider's or ICUS' intellectual property rights, including any of Master Service Provider's or ICUS' current or future patent, copyright, or trademark rights. 
+ 
+g. Marketing. Subcontractor will use advertising, promotional materials, training materials, and Licensed Marks supplied by ICUS without alteration or modification. Such materials may not be modified or altered by Subcontractor without prior written approval from ICUS, Master Service Provider or its agents. 
+ 
+1. Subcontractor shall submit to ICUS for prior review and written approval, all proposed advertising, sales promotion, scripts, draft oral presentations, business cards, letterhead, press releases, internet homepage/websites, other electronic listings, other publicity matters, items, or materials relating to the Equipment and the Services or using the Licensed Marks. Such proposals shall be sent to: icuscorp@impactconnectus.com. 
+ 
+2. Subcontractor shall market the Equipment, Services, and its Services in a professional manner in accordance with the terms of this Subcontractor Agreement. 
+ 
+3. Website. Subcontractor agrees that its website shall not offer nor contain links to any illegal or pornographic products or services, and in the event of a breach of the foregoing and in addition to all other remedies, ICUS shall have the immediate right at its option to terminate this Subcontractor Agreement and have any Licensed Marks or other marks removed from Subcontractor's website. Subcontractor will post any Master Service Provider's information on the Subcontractor's website in a position and with a prominence greater than or equal to that of all competitors. 
+ 
+4. Subcontractor will use all of its customary marketing and promotional resources and techniques to provide the marketing of services, its Services and Equipment to Customers and potential Customers. Subcontractor will employ the media activities and resources that it typically uses to attract individuals to Subcontractor's website. 
+ 
+h. Subcontractor shall refrain from bidding on any Master Service Provider Licensed Marks keywords (e.g. any search terms that include the specific entity names of Master Service Provider in the search). 
+ 
+XII. Database, Door to Door, and Outbound Telemarketing 
+a. Database. Subcontractor shall create and maintain a database to capture and track information pertaining to any individual or business requesting not to be contacted regarding Master Service Provider. The information shall include, but not be limited to, billing telephone number including area code, complete name, complete address, and date of request when made. Subcontractor shall provide this information to ICUS every thirty (30) days, utilizing a mutually acceptable process. 
+ 
+b. Door to Door. 
+ 
+1. Subcontractor shall not participate in the Door-to-Door program without express written consent from ICUS. 
+ 
+2. Subcontractor shall conduct solicitations only during permissible contact hours as required by any applicable laws. Contact hours may vary by geographic area. 
+ 
+3. Subcontractor shall be solely responsible for ensuring its employees are properly trained, managed, and compensated related to Door-to-Door sales. 
+ 
+c. Subcontractor shall be prohibited from conducting outbound telemarketing programs. 
+ 
+XIII. Insurance, Indemnification, and Limitation of Liability 
+ 
+a. Insurance. During this Subcontractor Agreement, Subcontractor will, at its own cost and expense, carry and maintain the insurance coverage listed below with insurers having a "Best's" rating of A-VII. Subcontractor will not begin any work under this Subcontractor Agreement until it has fulfilled all insurance requirements specified in this Subcontractor Agreement. Additional insurance in excess of this Section XIII, which covers the same amounts and requirements or exceeds the same amount and requirements shall be acceptable to cover this Section XIII. However, at a minimum the Subcontractor shall meet or exceed the insurance coverages listed below. 
+ 
+1. The commercial general liability insurance policy must: 
+ 
+      i. Be endorsed to include ICUS, its Affiliates, and their directors, officers, and employees as additional insureds. Subcontractor agrees to provide a copy of the Additional lnsured endorsement to ICUS prior to services being performed. A copy of the additional insured endorsement must be provided at each commercial general liability policy renewal. 
+ 
+      ii. Include a waiver of subrogation endorsed in favor of ICUS, its Affiliates, and their directors, officers, and employees. 
+ 
+      iii. Be primary and non-contributory with respect to any insurance or selfinsurance that is maintained by ICUS. 
+ 
+2. During the Term, with respect to work performed under this Subcontractor Agreement and in addition to any Subcontractor indemnification obligations hereunder, Subcontractor shall, at its sole cost and expense, maintain the following insurance coverages and limits. In addition, with respect to any coverage maintained in a "claims-made" policy, Subcontractor shall, at its sole cost and expense, maintain such coverages and limits for two (2) years following the termination of this Subcontractor Agreement. 
+ 
+3. Workers' Compensation, where required by law, insurance with benefits afforded under the laws of any state in which Subcontractor, Affiliates, and Subcontractor Persons perform any work under this Subcontractor Agreement and Employers 
+Liability insurance with limits of at least: 
+ 
+$500,000 for Bodily Injury - each accident 
+$500,000 for Bodily Injury by disease - policy limits 
+$500,000 for Bodily Injury by disease - each employee 
+ 
+4. Commercial General Liability insurance written on Insurance Services Office (ISO) Form CG 00 01 or a substitute form providing equivalent coverage, covering liability arising from premises, operations, personal injury, products/completed operations, and liability assumed under an insured contract (including the tort liability of another assumed in a business contract), with limits of at least: 
+ 
+$1,000,000 General Aggregate limit 
+      $1,000,000 each occurrence limit for all bodily injury or property damage incurred in anyone (l) occurrence. 
+$1,000,000 each occurrence limit for Personal Injury and Advertising Injury $1,000,000 Products/Completed Operations Aggregate limit 
+ 
+5. The Commercial General Liability insurance policy must: 
+ 
+      i. include ICUS, AT&T, AT&T Affiliates, and their agents, directors, officers, and employees as Additional Insureds. Subcontractor shall provide a copy of the Additional Insured endorsement to ICUS. The Additional Insured endorsement may either be specific to ICUS or may be "blanket" or "automatic" addressing any person or entity as required by contract. 
+ 
+      ii. include a waiver of subrogation in favor of ICUS, AT&T, AT&T Affiliates, and their agents, directors, officers, and employees. 
+ iii. be primary and non-contributory with respect to any insurance or self- insurance that is maintained by ICUS, Master Service Provider or its agents and any exclusion to property in the care, custody and control of the insured must be deleted. 
+ 
+6. Business Automobile Liability insurance, if vehicles will be used in the performance of this contract, with limits of at least $1,000,000 each accident for bodily injury and property damage, extending to all owned, hired, and non-owned vehicles. 
+7. Umbrella/Excess Liability insurance with limits of at least $1,000,000 each occurrence with terms and conditions at least as broad as the underlying Commercial General Liability, Business Auto Liability, and Employers Liability policies. 
+ 
+8. Umbrella/Excess Liability limits will be primary and non-contributory with respect to any insurance or self-insurance that is maintained by ICUS or Master Service Provider or its agents. 
+ 
+9. The above minimum coverage does not constitute a limitation of Subcontractor’s liability.  
+b. Subcontractor and its Affiliates, shall provide at ICUS's request certificates of insurance and/or endorsements evidencing the required insurance. Additionally, Subcontractor and its Affiliates shall provide updated certificates of insurance and/or endorsements evidencing the required insurance within five (5) days of a change in carrier, renewal, or purchase. The failure of ICUS to demand such certificate of insurance or failure of ICUS to identify a deficiency will not be construed as a waiver of Subcontractor and its Affiliate’s obligations to maintain the insurance required under this Subcontractor Agreement. Subcontractor acknowledges and agrees that the mandatory insurance described above does not represent that coverage and limits will necessarily be adequate to protect Subcontractor, nor shall it be deemed as a limitation on Subcontractor's liability to ICUS in hereunder. Subcontractor and its Affiliates may meet the required insurance coverages and limits with any combination of primary and Umbrella/Excess liability insurance. Subcontractor and its Affiliates are solely responsible for any deductibles or self-insured retention requirements. Subcontractor and its Affiliates shall provide or have the issuing insurance company provide at least thirty (30) days advance notice of cancellation, non-renewal or material reduction in coverage, terms, or limits. 
+ 
+c. Subcontractor shall defend, indemnify, and hold harmless ICUS, its parents, subsidiaries, and its Affiliates, and its respective directors, officers, partners, employees, contractors, successors and assigns ("Indemnified Parties") from and against any claims, demands, lawsuits, damages, liabilities, loss, costs, or expenses (including, but not limited to, reasonable fees, and disbursements of counsel and court costs), judgments, settlements, and penalties of every kind ("Claims"), arising from or in connection with; injuries (including death) to persons or damage to property, including theft, resulting from the acts or omissions of Subcontractor; Services provided, or a violation of this Subcontractor Agreement by Subcontractor; any violation, by Subcontractor of any law, statute, regulation or governmental order, or any worker's compensation or similar claim by Subcontractor. 
+ 
+d. Subcontractor shall promptly notify ICUS in writing of any Claims covered by an indemnity obligation. Promptly after receipt of such notice, Subcontractor shall assume the defense of such Claim with counsel reasonably satisfactory to ICUS (which includes the right to compromise or settle any such Claim). If Subcontractor fails, within a reasonable time after receipt of such notice, to assume the defense with counsel reasonably satisfactory to the ICUS, then ICUS shall have the right to undertake the defense, compromise, and settlement of such Claim for the account and at the expense of Subcontractor. ICUS shall provide reasonable assistance to the Subcontractor, at Subcontractor cost and expense, in connection with any Claim. Notwithstanding the foregoing, if
+ICUS in its sole discretion so elects, ICUS may also participate in the defense of such Claims on a non-controlling basis by employing counsel at its expense, without waiving the Subcontractor obligations to indemnify or defend. Neither Party shall settle any Claim; compromise any Claim; or consent to the entry of any judgment, without the prior written consent of the other Party and without an unconditional release of all liability by each claimant or plaintiff with respect to such other Party. 
+ 
+e. TAXES. SUBCONTRACTOR IS RESPONSIBLE FOR THE PAYMENT OF ANY APPLICABLE TAXES, LEVIES, DUTIES, OR SIMILAR GOVERNMENTAL CHARGES, INCLUDING SALES AND USE TAXES, EMPLOYMENT TAXES, OR ANY OTHER TAX. 
+ 
+ 
+XIV Confidentiality and Nondisclosure 
+ 
+a. During the term of this Subcontractor Agreement, a Party may come into contact with, have access to, or acquire Confidential Information. Confidential Information means confidential, trade secret, and proprietary information of the disclosing party, including any nonpublic information relating to technologies, products, promotional and marketing activities, finances and financial plans, business plans, analyses, models, key personnel and contacts, business targets, strategics and objectives, capabilities, business affairs, and any third party information that the disclosing party is otherwise obligated to keep confidential, and that should reasonably have been understood by the receiving party, because of legends or other markings; the circumstances of disclosure or access; or the nature of the information, regardless of form (including but not limited to tangible or intangible, written. oral, or visual). As between Master Service Provider and Subcontractor, all Customer Information exchanged pursuant to the performance of this Subcontractor Agreement will be considered Master Service Provider's Confidential Information. Except as otherwise specified, Confidential Information includes this Subcontractor Agreement, and all of its terms and conditions. Such Confidential Information is, and shall remain, the exclusive property of the disclosing Party. The receiving party shall treat und maintain all Confidential Information as confidential, whether or not it has been physically marked as "Confidential" or “Proprietary". Confidential Information may be used by the receiving party only to the extent reasonably required in the performance of its obligations under this Subcontractor Agreement and may only be distributed to third party affiliates or representatives of the receiving party who have a need to know in order to perform pursuant to this Subcontractor Agreement, and who are bound to maintain confidentiality. The Confidential Information may not be released to any other person, entity, or the public without the prior written consent of the disclosing party, except when the receiving party is compelled to disclose such information under the law, and only to the extent necessary to comply with the legal requirement of disclosure. The receiving party shall protect all such Confidential Information of the disclosing party with the care and diligence with which it protects its own proprietary information which shall, at minimum, be the same level of care and diligence that would generally be expected of a responsible Party similarly situated. To the extent applicable, Subcontractor shall at all times comply with 47 CFR 64.2001 et seq. regarding CPNI. 
+ 
+b. The foregoing obligations shall not apply to any of the following information: 
+ 
+1. lawfully in the receiving party's possession prior to its acquisition from the disclosing Party: 
+2. received in good faith from a third party not subject to any confidentiality obligation to the disclosing party. 
+ 
+3. which now is or later becomes publicly known through no breach of confidentiality obligation by the receiving party; or 
+ 
+4. which is independently developed by the receiving party without use of reference to, or influence by the disclosing party's Confidential Information. 
+ 
+c. The receiving party agrees to cooperate with the disclosing party in the investigation of any such apparent unauthorized intrusion (electronic or physical) or unauthorized release of Confidential Information and agrees to notify the disclosing party within five (5) business days of knowledge of any misuse of any Confidential Information. 
+ 
+d. If the receiving party receives a request to disclose any Confidential Information to comply with any law, rule, regulation, or order of a court or governmental agency, the receiving party agrees that, prior to disclosing any Confidential Information, it shall notify the disclosing party of the existence and terms of such request; cooperate with the disclosing party in taking legally available steps to resist or narrow any such request; and if disclosure is required, exercise best efforts to obtain a protective order (at the disclosing party's expense) or other reliable assurance that confidential treatment will be afforded to the Confidential Information disclosed. 
+ 
+e. Subcontractor shall immediately notify ICUS if it receives a request from a foreign government, entity, or individual for access to or disclosure of any information whatsoever related to the Services, services, Equipment, Master Service Provider, or any Customer. Subcontractor further represents, warrants. and covenants that it shall not provide such access or disclosure without the express written consent of Master Service Provider, its authorized agents, ICUS, the United States Department of Justice, or the authorization of a court of competent jurisdiction in the United States. 
+ 
+f. Each Party agrees not to provide copies of this Subcontractor Agreement, or otherwise disclose the terms of this Subcontractor Agreement, to any third party without the prior written consent of the other party and Master Service Provider or its agents, which shall not be unreasonably withheld, conditioned, or delayed; provided. however, that ICUS may, without obtaining Subcontractor's consent, provide copies or make disclosures to prospective purchasers of the business of ICUS or Affiliates; and either Party may, without obtaining the other's consent, provide copies or make disclosures to their auditors, banks, or financial advisors, provided such third parties are bound to an obligation of confidentiality, and to any regulatory or judicial body requesting such information. Subcontractor agrees not to publish or use any advertising, sales promotion, press release, or publicity documents regarding or referring to this Subcontractor Agreement. 
+ 
+g. Upon expiration or termination of this Subcontractor Agreement, the receiving party shall return all Confidential Information of the disclosing party in its possession as of the effective date of such termination or expiration to the disclosing party. Provided. however, that the receiving party may destroy such Confidential Information in lieu of returning, but only to the extent that the disclosing party expressly agrees to such destruction. Any secondary copies, views or images of such Confidential Information remaining in receiving party's possession after all such required return shall be destroyed, except material required to be retained by the Patty for accounting and record keeping purposes in the ordinary course of their business. 
+ 
+h. Access to Confidential Information. 
+ 
+1. If Subcontractor is given access. whether on-site or through remote facilities, to any Master Service Provider, its agents or ICUS computer or electronic data storage system in order for Subcontractor to provide the Services, Subcontractor shall limit such access solely to performance or Services within the scope of this Subcontractor Agreement and shall not access or attempt to access any computer system, electronic file, software, or other electronic services other than those specifically required to accomplish the Services required under this Subcontractor Agreement. Subcontractor shall limit such access to those parties who Master Service Provider, its agents or ICUS has authorized in writing to have such access in connection with this Subcontractor Agreement and shall strictly follow all Master Service Provider’s, its agents’ or ICUS' security rules and procedures for use of Master Service Provider’s, its agents’ or ICUS' electronic resources. All user identification numbers and passwords disclosed to Subcontractor and any information obtained by Subcontractor as a result of Subcontractor's access to and use of Master Service Provider’s, its agents’ or ICUS' computer and electronic data storage systems shall be treated as Master Service Provider’s, its agents’ or ICUS' Confidential Information. Subcontractor agrees to cooperate with Master Service Provider, its agents or ICUS in the investigation of any apparent unauthorized access by Subcontractor to Master Service Provider’s, its agents’ or ICUS' computer or electronic data storage systems or unauthorized release of Confidential Information by Subcontractor. 
+ 
+2. Subcontractor shall treat all CPNI as Confidential Information. Subcontractor shall assure that Subcontractor's employees and representatives shall not review or use, in any manner, any CPNl other than as permitted by law and only in performance of Subcontractor's obligations under this Subcontractor Agreement. Subcontractor represents, understands, and acknowledges that applicable regulations prohibit the use of CPNI for the marketing or selling of certain services without Customer's consent. 
+ 
+l. 	Offshore Restrictions. Except as authorized, the following restrictions apply. 
+ 
+1. In no event shall Confidential Information regarding or pertaining to ICUS’ Master Service Provider's or its agents’ systems, infrastructure, employees, or Customers be stored, transmitted, or accessed through, or from a site located outside the United States nor made available to any person who is located outside the United States unless such Confidential Information relates solely, directly and independently to Master Service Provider or its agents, employees or Customers located outside of the United States, or to voice or data communications of Master Service Provider, its agents or its Customers that originate and terminate outside the United States, or to Master Service Provider’s, or its agents’ systems and infrastructure dedicated to the provision of Master Service Provider's voice or data services outside the United
+States or otherwise necessary for storage or access outside the United States in connection with security, back-up, disaster recovery, or related purposes as required by Master Service Provider services specifications, security, and technical requirements. 
+ 
+2. Notwithstanding anything otherwise stated herein, in no event shall Subcontractor provide, direct, control, supervise, or manage any voice or data communication with regard to Customers that occurs between United States locations (or the United States portion of any international communication that may originate or terminate within the United States) from a location outside of the United States, nor shall Confidential Information be stored, transmitted, or accessed, from, at, in, or through a site located outside the United States without Master Service Provider's prior written consent. 
+ 
+3. Nothing in this Section is intended to nor shall it operate in derogation of any requirement imposed on ICUS, Master Service Provider or its agents by a governmental body or agency outside the United States. 
+ 
+j. If applicable, Subcontractor shall conform to all requirements of the Payment Card Industry data security standard ("PCI Standard"). Subcontractor acknowledges that it is responsible for the security of cardholder data in its possession. As between Subcontractor and ICUS, cardholder data, and sensitive authentication data (as those terms are used in the PCI Standard) are Master Service Provider's Confidential Information and subject to the security and nondisclosure requirements of this Subcontractor Agreement. Notwithstanding the foregoing, the requirements of the PCI Standard will control over any conflicting or inconsistent requirements elsewhere in this Subcontractor Agreement. 
+ 
+k. Third-Party Verification. 
+ 
+Subcontractor is required to meet established third party verification objectives specified by ICUS, Master Service Provider or its agents. 
+ 
+XV Miscellaneous 
+ 
+a. Indemnification by Both Parties. Subcontractor and ICUS must defend and indemnify the other party and its affiliates, parents, subsidiaries, and all of their employees and agents from all liability, damages, punitive damages, fines, expenses, including reasonable attorneys' fees and disbursements, claims, demands, or suits arising from any breach of this Subcontractor Agreement or non-compliance with law, the negligent, willful. or fraudulent acts, or for the failure to act, with respect to the performance of each party's obligations under this Subcontractor Agreement, including without limitation, any allegedly unauthorized use of a trademark, patent, copyright, process, method, or device, false or misleading advertising, or bodily injury, death, or damage to property to the extent occasioned by the acts or omissions of the indemnifying party or its affiliates, employees, agents, and, in the case of Subcontractor, its Subcontractor Network. Prompt written notice must be provided to the indemnifying party of any claim for indemnity. Each party may conduct its own defense of any claim in which it is named as a defendant without diminishing its indemnity rights. This indemnity provision only applies to claims or liability from third parties and not to claims between the parties. The Limitation of Liability provisions of this Subcontractor Agreement do not limit recovery under this Indemnity clause. 
+ 
+b. Indemnification by Subcontractor. Without limiting the foregoing provisions, Subcontractor also agrees to defend, indemnify, hold harmless and defend ICUS, Master Service Provider or its agents and any AT&T Affiliates in the event that any federal, state or local government agency or any of Subcontractor's current or former Subcontractor Persons, applicants, agents or employees assert claims against ICUS, Master Service Provider or its agents or any AT&T Affiliates arising out of the employment relationship with Subcontractor, or otherwise with respect to performance under this Subcontractor Agreement, including but not limited to claims, charges, and actions arising under Title Vll of the Civil Rights Act of 1964, as amended, The Equal Pay Act, the Age Discrimination in Employment Act, as amended, The Rehabilitation Act, the Americans with 
+Disabilities Act, as amended, The Fair Labor Standards Act, the Family Medical Leave Act, Workers' Compensation laws, the Affordable Care Act, the National Labor Relations Act and any other applicable federal, state, or local laws. Subcontractor’s duties to indemnify, hold harmless and defend ICUS, Master Service Provider or its agents and any Affiliates under this section include, but are not limited to, any liability, cause of action, lawsuit. penalty claim or demand, administrative proceeding in which ICUS, Master Service Provider, its agents or any AT&T Affiliates is named as or alleged to be an "employer" or “joint employer" with Subcontractor. This indemnity obligation is in addition to any other indemnity obligation of Subcontractor set forth in this Subcontractor Agreement. 
+ 
+c. LIMITATION OF LIABILITY. EXCEPT TO THE EXTENT OTHERWISE PROVIDED UNDER THE INDEMNITY PROVISION, NEITHER AT&T, AT&T AFFILIATES, ICUS, NOR 
+SUBCONTRACTOR IS LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, RELIANCE, 
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING 
+WITHOUT LIMITATION, LOST PROFITS OR REVENUES, AS A RESULT OF ANY (1) DEFAULT 
+OR BREACH OF THIS SUBCONTRACTOR AGREEMENT, (2) THE TERMINATION OR 
+EXPIRATION OF THIS SUBCONTRACTOR AGREEMENT OR (3) ANY OTHER EVENT, 
+CONDUCT, ACT OR OMISSION ARISING OUT OF OR RELATED TO THIS SUBCONTRACTOR 
+AGREEMENT. THIS LIMITATION OF LIABILITY APPLIES TO ALL CLAIMS DESCRIBED IN THIS 
+SECTION, WHETHER BASED ON CONTRACT, TORT, STATUTORY, OR OTHER CLAIM. THIS LIMITATION OF LIABILITY IS MADE KNOWINGLY, INTENTIONALLY, VOLUNTARILY AND WITH FULL KNOWLEDGE THAT THE PARTIES MAY BE GIVING UP THEIR RIGHT TO SEEK DAMAGES THAT THEY OTHERWISE MAY BE ENTITLED TO PURSUE. 
+ 
+d. Compliance with Laws and Ordinances. Each Party shall comply with all applicable governmental statutes, laws, rules, regulations, ordinances, codes, directives, and orders (whether federal, stale, municipal or otherwise) and is solely responsible, except as otherwise contemplated herein, for the compliance with all such laws arising out of or relating to the services, Services, and Equipment and use of the services, Services, and Equipment by the Customer. In the event of an unauthorized disclosure of Customer Information, CPNI or call detail information in violation of the 
+foregoing, 	Subcontractor 	shall 	provide 	notice 	of 	same 	electronically 	via
+ICUScorp@impactconnectus.com within forty-eight (48) hours of Subcontractor becoming aware of such unauthorized disclosure, and to the contact Notice addressee, by the means set forth therein. In addition, no person conducting or assisting in an investigation on behalf of ICUS, whether employed by Subcontractor or not, shall make any false statements to obtain information.
+Subcontractor shall also procure any required permits or certificates necessary to perform its obligations under this Subcontractor Agreement. Subcontractor shall indemnify and hold ICUS harmless against all Claims arising out of or related to such noncompliance. 
+ 
+e. Known Violations. If Subcontractor knows, or has reason to suspect, that any member of its Network has violated any of the provisions of this Subcontractor Agreement (including those of this Section) or any applicable law, order or regulation, Subcontractor shall immediately stop using that person or independent contractor (if required specifically in writing by ICUS) to market or sell the services, or otherwise perform, or assist in the performance of, Subcontractor’s obligations hereunder. Any material violation, not remedied in a timely fashion, shall be deemed a breach of this Subcontractor Agreement, and notwithstanding anything otherwise stated herein, ICUS shall have the right to immediately terminate this Subcontractor Agreement. Subcontractor shall indemnify, defend, and hold ICUS harmless against any fines or penalties associated with any violation of slamming laws related to this Subcontractor Agreement. 
+ 
+f. Removal. Master Service Provider, and ICUS reserve the right to refuse anyone access to its premises or remove anyone from its premises for any reason, in its sole discretion. 
+ 
+g. Force Majeure. Neither Subcontractor nor ICUS shall be liable for non-delivery, delay in delivery, or any other impairment of performance hereunder, in whole or in part, caused by the occurrence of any contingency beyond the control of either Party, including but not limited to war (whether an actual declaration thereof is made or not), sabotage, insurrection, rebellion, riot or other act of civil disobedience, act of a public enemy, failure or delay in transportation, act of any government or any agency or subdivision thereof, judicial action, labor dispute, fire, accident, explosion, epidemic, quarantine, restrictions, storm, flood, earthquake, or other act or God, where either Party has exercised ordinary care in the prevention thereof. 
+ 
+h. Severability. In the event any one or more of the provisions of this Subcontractor Agreement shall for any reason be held to be invalid or unenforceable, the remaining provisions of this Subcontractor Agreement shall be unimpaired, and the invalid or unenforceable provision shall be replaced by a mutually acceptable provision that, being valid and enforceable, comes closest to the intention of the Parties underlying the invalid or unenforceable provision. 
+ 
+i. Survival. The covenants and conditions herein which, by their terms or nature, extend beyond the termination or expiration of this Subcontractor Agreement, shall survive such termination or expiration until fully performed including, but not limited to, indemnification and confidentiality obligations, as otherwise provided herein. 
+ 
+J. Waiver. Neither the waiver by either of the Parties hereto of a breach of, or a default under, any of the provisions of this Subcontractor Agreement, nor the failure of either of the Parties, on one or more occasions, to enforce any of the provisions of this Subcontractor Agreement or to exercise any right or privilege hereunder shall thereafter be construed as a waiver of any subsequent breach or default of a similar nature, or as waiver of any of such provisions, rights, or privileges hereunder.
+k. Assignment. Without securing the consent of Subcontractor, ICUS may assign its rights, or delegate its duties or both, in whole or in part: to any present or future Affiliate of ICUS, to any lender providing financing to ICUS, or to any third party that assumes the operation of or otherwise acquires any substantial portion of the business of ICUS affected by this Subcontractor Agreement. 
+ 
+l. Independent Contractor. The relationship established by this Subcontractor Agreement between Subcontractor and ICUS is that of an independent Contractor. Subcontractor and ICUS have no expressed or implied authorization to incur any obligation or commitment on behalf of the other Party, unless specifically approved in writing by an authorized Party official. Subcontractor and ICUS will employ their own personnel and will be responsible for them and their acts. Neither Subcontractor nor ICUS will in no way be liable to the other, for its employees, or third Parties, for any losses, injuries, damages, or the like occasioned by Subcontractor's or ICUS' activities in connection with this Subcontractor Agreement, except as expressly provided herein. 
+ 
+m. Governing Law Disputes. This Subcontractor Agreement will be governed by and construed in accordance with the laws of the State of Tennessee and the United States of America, excluding that body of laws known as conflict of laws. The federal and state courts in the State of Tennessee shall have exclusive jurisdiction to hear and determine any claims, disputes, actions, or suits which may arise under or out of this Subcontractor Agreement, specifically the state courts of Rutherford and/or Williamson County, Tennessee, at ICUS’ sole discretion. The Parties agree and voluntarily consent to the personal jurisdiction and venue of such courts. 
+ 
+n. Descriptive Headings. The descriptive headings and sections of this Subcontractor Agreement are inserted for convenience only and shall not control or affect the meaning or construction of any of the provisions hereof. 
+ 
+o. Interpretation. Should any provision of this Subcontractor Agreement require judicial interpretation, it is agreed that the court interpreting or constructing the same will not apply a presumption that the terms hereof will be more strictly construed against one Party by reason or the rule of construction that a document is to be construed more strictly against the Party who itself or through its attorney prepared the same, it being agreed that all Parties, directly or through their attorneys, have participated in the preparation or negotiation hereof. 
+ 
+p. Counterpart. This Subcontractor Agreement may he executed simultaneously in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+ 
+q. Third Party Beneficiary. This Subcontractor Agreement is intended for the benefit of the Parties and their permitted assigns, and no other persons will be entitled to rely upon this Subcontractor Agreement or be entitled to any benefits under this Subcontractor Agreement. 
+ 
+r. Amendments. No modification, termination, extension, or renewal of any provision of this Subcontractor Agreement will be binding upon either Party unless made in writing and signed by an authorized representative of each of the Parties, excluding ICUS' right to modify as further described in Section IX f. Neither electronic mail nor instant messaging will be considered a "writing" sufficient to change, modify, extend, or otherwise affect the terms of the Subcontractor 
+Agreement or any amendment thereto, excluding ICUS' right to modify as further described in Section IX f. Any supposed oral amendment shall be null and void. 
+ 
+s. Attorney Expenses. In the event a dispute between the Parties hereunder with respect to this Subcontractor Agreement must be resolved by litigation or other proceeding, the prevailing Party shall be entitled to receive reimbursement for all associated reasonable litigation costs and attorney's fees from the other Party. 
+ 
+t. Entire Understanding.   This Subcontractor Agreement supersedes and replaces any and all prior Subcontractor Agreements, understandings, or arrangements, whether oral or written, heretofore made between the Parties, and relating to the subject matter hereof and constitutes the entire understanding of the Parties with respect to the subject matter of this Subcontractor Agreement. This Subcontractor Agreement may not be modified, changed, altered, or amended except by an express written agreement signed by authorized representative of both Parties. 
+
+      IN WITNESS WHEREOF, the Parties have executed this Subcontractor Agreement as of_______________.  
+ 
+Impact ConnectUS, LLC: 	                                      Next Gen Tech Solutions Inc 
+ 
+ 
+ 
+ 
+ 
+By: Roberto Gutierrez, President  
+ 
+2615 Medical Center Parkway, Ste.1560 
+Its: Owner/CEO  
+Murfreesboro TN 37129 	Title 
+ 
+Subcontractor Company Address: 
+ 
+ 	 	 	 	 	 	 	 	 1417 Ave K Apt 3H 
+
+ 	 	 	 	 	 	                           Brooklyn NY 11230 
+ 
+
+ 
+ 
+
+
+MSA Exhibit 
+ 
+ICUS SubContractor AT&T Commissions 
+ 
+      MSA Exhibit describes, and gives examples for, the Subcontractor commission structure that Subcontractor receives from ICUS for the sale of its products by Subcontractor under ICUS Subcontractor Agreement. 
+ 
+      Included within this MSA Exhibit page 35 (fig. 1) is the Spreadsheet prepared by ICUS’ accountant, with two columns, identified as follows: 
+ 
+* Column 1 lists the AT&T Products as AT&T Sale Type. Eleven items are listed. 
+ 
+* In Column 2, the total dollar commission paid to Subcontractor by ICUS pursuant to this ICUS Subcontractor Agreement for each “AT&T Sale Type” is listed. 
+ 
+ 
+      The Spreadsheet is useful for reference herein to the description of the calculation of ICUS Subcontractor commissions, actual sales and commissions paid will be stored by ICUS and conveyed to JNA Accounting; then JNA Accounting distribute to the respective Subcontractors for their records. Chargebacks will be incorporated into the commissions distribution as specified within sections IX. Commissions Validations, Payments, and Dispute Process subsection h. Compensation Net of Chargebacks page 18,  X. Chargebacks page 18-19. 
+ 
+For example: ICUS Subcontractor sells an AT&T TV (Low Risk) and ICUS 
+then pays JNA Accounting for the dealers commission amount of $125.00. This same logic is applied across the remaining products referred to in MSA Exhibit page 35 (fig. 1) 
+MSA Exhibit fig. 1 
+ 
+DIRECTV RESIDENTIAL Prepaid Programming Commission Low Risk  
+Medium Risk  
+Upgrades 
+Choice or Higher Bonus  
+Home Phones 
+Auto pay, Protection Plan, Sports Subscription $125 
+$60 
+$30 
+$10 
+$15 $5 ATT TV CHANNEL RESIDENTIAL Prepaid Programming Commission Low Risk  
+Medium Risk 
+Choice or Higher Bonus 
+ATT TV w/ Unlimited Cloud DVR $125 
+$50 
+$10 $5 ATT UVERSE INTERNET Home Internet Commission Internet 100 MB+ 
+Internet 24MB-99MB  
+Internet 10MB-18MB $130 
+$80 $5 ATT WIRELESS MOBILITY (POSTPAID) Commission AT&T NEXT & BYOD (Primary Line)  
+AT&T NEXT & BYOD (Add-A-Line) 
+Non-SmartPhones  
+Connected Devices  
+Tablets or Wearables  
+Smartphone Upgrades 
+AT&T Home Phone (Any Package) $70 
+$60 
+$20 
+$25 
+$20 
+$20 
+$20 BUNDLE BONUSES Home Internet Commission AT&T TV Low Risk + Internet 1000MB 
+3rd Party Internet Bundle with DTV or AT&T TV $15 
+$60 Order Process Fee Commission SaraPlus Order Processing Fee ($5)  
+ 
+ 	 	 	 	 	 	 	 	 	 	 	______ / ______
+EXHIBIT B 
+MARKETING TACTICS DEALER POLICY STATEMENT 
+ 
+Please review this Dealer Policy Statement carefully. You, the Dealer (including your Affiliates, employees, approved subcontractors (and their employees, subcontractors and agents), are required to know and comply with all marketing laws applicable to your activities under the Agreement. 
+While telemarketing, Internet marketing, event/home solicitation and other tactics may be effective means of reaching 
+consumers, many marketing activities are fraught with difficulties. The risks involved may in fact exceed the potential benefits and you must therefore carefully consider your company’s independent marketing decisions. The costs associated with defending against even frivolous claims can be enormous. The Agreement obligates you to adhere to all laws, including all laws applicable to marketing tactics you use, and to defend and indemnify AT&T and any AT&T Affiliates in the event that claims and allegations are asserted against AT&T and any AT&T Affiliates as a result of your independent marketing activities. Failure to conduct your activities in accordance with this Dealer Policy statement, or any other AT&T Dealer Policy applicable to your marketing activities is a breach of the Agreement and may result in termination. 
+       AT&T appreciates your dedication to upholding all telemarketing and other marketing restrictions. Because state and federal laws vary, any specific questions you have should be directed to your legal counsel. Questions for AT&T should be directed to your Area Sales Manager. 
+1. GENERAL 
+The Agreement creates an independent contractor relationship between you, the Dealer, and AT&T, as AT&T does 
+not have control over how you run your business. AT&T’s policy is to adhere to all laws and regulations, including those relating to marketing activities and the Agreement obligates you to conduct your activities in a manner that will not impugn 
+AT&T’s reputation or goodwill, and that you comply with all applicable laws and Dealer Policies. The purpose of this Dealer Policy statement is to alert you, in summary form, to the existence of certain marketing laws and related Dealer Policies, and to remind you that it is your responsibility to: (a) determine which specific laws are applicable to your activities; and (b) conform your marketing activities to the law, Dealer Policies, and the Agreement. 
+       This Dealer Policy statement is not intended to provide legal advice or counsel to you, nor is it an exhaustive list of all laws and regulations applicable to your activities. Legal requirements differ from jurisdiction to jurisdiction, and are constantly evolving. You are solely and independently responsible for complete compliance with, and consequences of noncompliance with, applicable laws and regulations. Therefore, it is imperative that you consult your legal counsel for full details on the requirements of all applicable marketing laws and regulations before undertaking any marketing campaign. 
+Dealers must prominently identify themselves in all marketing, and cannot hold themselves out as any AT&T 
+Affiliates, including DIRECTV. Further, you are not authorized to hold yourself out as an agent of AT&T or any AT&T Affiliate, including DIRECTV. Thus, in all contacts with consumers, including inbound calls or the limited outbound calls or text messages addressed in this Policy, you must prominently show/provide your company name, address, telephone number, and your relationship to AT&T (i.e., Preferred Dealer), and you cannot state that you are answering calls/texts or calling/texting or otherwise acting as AT&T or DIRECTV or "on behalf of" AT&T or DIRECTV. Throughout this Dealer Policy statement, references to AT&T shall include all AT&T Affiliates, including DIRECTV. 
+2. TELEMARKETING 
+    The federal Telephone Consumer Protection Act, 47 U.S.C. § 227 et seq., (“TCPA”) places restrictions on the use of telephone equipment to market or promote products and services. Numerous states have adopted statutes modeled after or more restrictive than the TCPA, each with its own penalty scheme. Another related and significant regulatory regime in this area is the Telemarketing and Consumer Fraud Prevention Act, 15 U.S.C. § 6101 et. seq., as implemented by the 
+Federal Trade Commission in the Telemarketing Sales Rule, 16 CFR Part 310 (“TSR”). In 2003, the FTC and FCC established and began enforcement of a National Do Not Call Registry. The FCC has also implemented stricter rules for 
+
+enforcing the TCPA which began to take effect in 2012. Further, in a July 2015 order, the FCC found that text messaging 
+ is treated as a call under TCPA and is subject to TCPA liability. 
+ 
+    Many states also have their own Do Not Call Registries, as well as telemarketer registration and bonding requirements. States also often impose stricter requirements than the federal law which, in many instances, apply to all forms of outbound and inbound telemarketing. Thus, even if you are otherwise making a permitted call, you may still be required to register and/or post a bond in certain states prior to placing or receiving a telemarketing call. 
+    The potential penalties for violating these laws are serious. For example, the government can impose $16,000.00 in penalties “for each such violation” of the TCPA or the Telemarketing Sales Rule. In addition, under the TCPA, consumers can bring private rights of action to seek the greater of actual damages or $500 for each alleged violation, which can be trebled to $1,500 by the Court if the conduct is deemed willful. Because of the myriad of laws making compliance difficult, as well as the penalties and loss of reputation and goodwill associated with non-compliance, AT&T does not provide discretionary marketing funds for use in connection with outbound telemarketing solicitations or outbound text messaging campaigns. 
+    You are prohibited from outbound telemarketing of the Services except via a manually placed return call or text message in response to a direct inquiry from a customer and you are able to substantiate such inquiry. The equipment used to place manual return calls must, at a minimum, meet ALL of the following requirements: • Equipment must require some sort of human intervention to place/launch the call; 
+• Equipment must not have the present capacity to store and produce numbers and dial those numbers at random, in sequential order or from a database of numbers; 
+• Equipment must not have the future capacity to store and produce numbers and dial those numbers at random, in sequential order or from a database of numbers; 
+• There must be no way for the Equipment to be modified/programmed/tweaked by download of software or otherwise so that the Equipment could function as an autodialer at any time in the future; 
+• The Equipment may not have a USB port (so software may not be downloaded software or other applications so Equipment could be modified to become an autodialer); 
+• Equipment must only allow one call at a time (so rep may only place one call at a time and may not launch multiple calls for a single rep at once); 
+• Equipment may not use any predictive algorithms; 
+• Equipment may not be located on or in any way connected to any server that houses an autodialer; o Dealer sellers must not have access to any autodialer equipment (credentials must be limited to prevent such access); and o Dealer sellers must not be able to toggle back and forth between Equipment and any autodialer equipment whatsoever. 
+       Following are AT&T’s specific policies and guidelines regarding particular forms of outbound telemarketing. All references to AT&T Services or AT&T branded products and services include brands of any AT&T Affiliate, including DIRECTV: 
+A. Facsimile advertising. Facsimile advertising is a form of outbound telemarketing solicitation that is expressly disapproved of for ANY use in advertising AT&T branded products and services. In addition, it is considered a violation of this Dealer Policy statement for you to use facsimile advertising in connection with Dish Network or any “satellite television” product if such advertisement is likely to lead to consumer confusion and the mistaken belief that such advertising relates to DIRECTV-brand products or services. 
+B. Pre-recorded messages. Pre-recorded message advertising is also a form of outbound telemarketing solicitation that is expressly disapproved of for ANY use in advertising AT&T branded products and services. In addition, it is considered a violation of this AT&T Dealer Policy statement for any dealer to use pre-recorded message advertising in connection with Dish Network or any “satellite television” product if such advertisement is likely to lead to consumer confusion and the mistaken belief that such advertising relates to DIRECTV-brand products or services. 
+C. Text or SMS messages. The FCC has determined that text or SMS messages are legally the same as phone calls or pre-recorded messages. Therefore, text message advertising is also a form of outbound telemarketing solicitation that is expressly disapproved of for ANY use in advertising AT&T branded products and services. In addition, it is considered a violation of this Dealer Policy statement for any dealer to use text message advertising in connection with Dish Network or any “satellite television” product if such advertisement is likely to lead to consumer confusion and the mistaken belief that such advertising relates to DIRECTV-brand products or services. 
+D. Outbound unsolicited telephone calls by live operators (“cold calling”). Using live operators (with or without using dialing equipment) to place unsolicited (no applicable existing business relationship or qualifying inquiry) outbound telemarketing calls, sometimes also referred to as “cold calls,” is expressly disapproved of for ANY use in advertising AT&T branded products and services. In addition, it is considered a violation of this AT&T Dealer Policy statement for anydealer to place such calls in connection with Dish Network or any “satellite television” product if such advertisement is likelyto lead to consumer confusion and the mistaken belief that such advertising relates to DIRECTV-brand products or services. 
+E. Manually-Dialed marketing calls to Prospective Customers who have made a “qualified” inquiry, and to existing or former customers – Conforming with Do Not Call List Requirements. 
+i. Inquiries from prospective customers. Dealers may generally make or return telephone calls manually dialed to prospective customers who initiate contact with them to inquire about AT&T products and services, notwithstanding the consumer’s registration in the federal Do Not Call registry. Current federal law permits an outbound telemarketing call to a consumer if the consumer has made an inquiry within the past 90 days regarding a product or service offered by Dealer, unless the consumer has previously asked to be placed on the Dealer’s internal Do Not Call list. Some state laws impose more restrictive time frames (e.g., California only allows a 30 day time period), require registration and/or bonding requirements or even prohibit return calls to consumers on their state Do Not Call registries altogether, so obtaining advice of counsel regarding the laws in the jurisdictions within which you plan to operate is imperative. Moreover, in recent years, states have become increasingly active in restricting the scope of traditional EBR calls (e.g. New York). You must (a) review any state’s telemarketing laws, including do not call scrubbing requirements, before you choose to place any type of telemarketing call into a state and not rely on the current federal 90 day period; (b) limit your return phone calls to within a few days of the inquiry; and (c) limit the number of customer call back attempts to less than 3, even if you are not getting an answer. 
+       If you are placing such return telemarketing calls, you must also have a written Do Not Call policy, train your operators on the policy, enforce compliance with the policy, provide it upon a consumer request, and timely honor all requests to be placed on your internal Do Not Call list. You must scrub against your internal list (and more restrictive state lists) before making return calls to consumers who have made an inquiry. 
+       AT&T’s policy requires that return calls related to AT&T services/products be made in a manual fashion by a live operator – no pre-recorded messages or mass computer dialing (i.e., predictive dialer) approaches may be used. Any other method could result in violation of the law. 
+       Typically, in order to qualify for an “inquiry” exemption to Do-Not-Call registries, the inquiry by the consumer must be made to you, the actual dealer, and the inquiry must also be specific to the AT&T or DIRECTV products or services, not simply, for example, a general consent to receive more information about “electronic products” or “satellite systems.” There are several key aspects to remember when claiming “inquiry” call exemptions to DNC registry scrubs: 
+• Time frames in which calls can be returned must be strictly obeyed, both in terms of overall call return period (as noted, federal law permits return calls within 90 days of inquiry, but state laws may be more restrictive) and hour, day of week and holiday restrictions (e.g., no calls before 8 AM or on holidays). In addition, some states impose registration and bonding requirements which may apply to all types of telemarketing calls, including calls to consumers who have made an inquiry, and to inbound calls. You must consult with legal counsel to ensure compliance in every state to which you return or place calls to inquiring consumers. 
+• Consumer inquiries to third parties do not create an exemption unless, in the process of obtaining the lead, the affiliate clearly and conspicuously discloses that the consumer will receive a call from you, the actual retailer/seller. This is true even as to subsidiaries and affiliated companies. Consumer inquiries to your subsidiary or affiliate donot provide you an exemption to call the consumer back, unless the consumer would reasonably expect you to respond to the inquiry. Similarly, your subsidiaries and affiliates cannot return calls to consumers who make an inquiry to you, unless, the consumer would reasonably expect the subsidiary or affiliate to call. Finally, such permissible return calls must involve the product the consumer originally inquired about. 
+• The burden is on you to maintain records and documents to “prove that an inquiry was made by the consumer” and to the extent autodialing equipment is used, the appropriate consent was obtained, including proof of written/ESIGN consent for returning calls to cellular phones. This is not only an AT&T Dealer Policy requirement, but a legal requirement. You should never place a return call to a consumer under the DNC exception (i.e., not 
+scrubbing the DNC databases) unless you have proof that the consumer made an inquiry and consented to receiving calls from you. Relying on capturing a call number through caller – ID technology is not sufficient. You must provide such proof upon the request of AT&T or any regulatory enforcement agency. ii. Manual marketing calls made to a consumer where there is an existing prior business relationship which includes a financial transaction.Under federal law, you may also generally telemarket to consumers who have engaged in a financial transaction with you within the past 18 months prior to the telemarketing call, notwithstanding the consumer’s registration inthe federal DNC registry. Again, however, several states have stricter laws (with some not recognizing any such exemption) and it is incumbent upon you to consult with counsel to ensure compliance in every jurisdiction in which you plan to make such calls, as every year more states pass more restrictive laws. Further, as with the consumer inquiry exemption to DNC registry scrubs described above, the following restrictions apply: 
+• This exemption does not apply if the consumer has asked to be placed on your internal Do Not Call list; your internal DNC must always be scrubbed. 
+• This exemption does not apply to your affiliates or subsidiaries, as described above. 
+• The burden is on you to maintain documents and records in order to establish that the exemption exists. These documents proving the relationship must be produced upon the request of AT&T or any regulatory enforcement agency. 
+• Some state laws are more restrictive; consult with counsel to determine whether or not existing business relationship telemarketing calls can be made to consumers in particular states. 
+F. Other General Telemarketing Requirements. In addition to the national database Do Not Call provisions, the Telemarketing 
+Sales Rule also sets forth significant requirements which must be complied with when engaging in any type of telemarketing (including calls made in response to a consumer’s inquiry or to customers with whom you have an existing business relationship). Similar requirements also exist at the state level. At a minimum, dealers engaging in any type of telemarketing sales call must comply with the following requirements: 
+• Immediate disclosures. You must immediately and promptly disclose at the beginning of the call your identity, the purpose of the call, the nature of products being sold and certain other disclosures. 
+• Calling time restrictions. You can generally only make calls between 8:00 a.m. and 9:00 p.m. in the consumer’s time zone. Some states have more restrictive time restrictions. 
+• Maintenance of internal Do Not Call policies. If you call consumers, you must maintain a written Do Not Call policy, train all employees about that policy and police for compliance. Further, upon request, a copy of the written policy must be sent to any consumer requesting the same. Lastly, you must maintain and scrub against your internal Do Not Call list and place consumers on that list immediately after receiving the request. 
+• Additional disclosures. Prior to the conclusion of the call, you must disclose the total cost including shipping and handling charges of any product purchased, all material conditions of the sale including any material limitations on free equipment or installation offers (such as any AT&T requirement to maintain a certain level of service for a specified period of time) and certain additional disclosures regarding any prize promotions. 
+• Record Keeping Requirements. In addition to maintaining records concerning any claimed exemption from a Do Not Call registry, you are also required to maintain other records concerning the telemarketing sale of products or services, including copies of all advertisements and promotional materials, sales and prize records, and certain contact information concerning telemarketing employees. 
+• Bonding and Registration Requirements. Some states require telemarketers to be registered and/or provide a bond, even for inbound calls in some states. You must consult with counsel to determine whether or not these requirements are triggered by your intended activities. 
+• Miscellaneous requirements. You may not engage in threats of intimidation, repetitive and annoying calls, or make false and misleading statements. 
+    G. Recording and Monitoring Your Calls. In the event you choose to use a marketing tactic that includes the placement of Service orders over the phone, you must record, retain and make available to Company upon request such call recordings in accordance with applicable Dealer Policies, and applicable law. Many states have very strict requirements that notification be provided immediately if any call is being recorded. If you record/monitor Subscriber calls, whether to comply with a Dealer Policy or for your own quality control monitoring or training purposes, you must consult your legal counsel for advice on compliance with all recording consent or notice requirements under applicable state law, and you must implement policies and procedures to achieve full compliance. NOTE: The restrictions on call recording/monitoring apply to any inbound/outbound call, not just telemarketing calls. 
+ 
+3. COOLING-OFF LAWS GOVERNING CUSTOMER SOLICITATIONS AT NON-RETAIL LOCATIONS 
+    Federal, state and local jurisdictional laws govern the sale of goods or services to a customer at the person’s home or at another location other than the seller’s fixed place of business. These laws impose strict notice and cancellation requirements on sellers who solicit transactions in a customer’s home or in other places outside of a fixed business establishment (e.g., state fairs, conventions, swap meets, or hotels). It is important that you review the summary below relating to these federal, state, and local customer solicitation ordinances—and, if your conduct falls under any of these laws, you should consult your legal counsel before undertaking any customer solicitation activities at a non-fixed, non-retail location (such as a home, convention, state fair, hotel, or other non-retail location). 
+       First, the Federal Trade Commission has enacted a regulation entitled “Rule Concerning Cooling-Off Period for Sales Made at Homes or At Certain Other Locations.” (the “FTC Rule”). The FTC Rule is codified at 16 C.F.R. § 429 et seq. Under the FTC Rule, a customer/ buyer in a home solicitation sale must be given a “cooling off” period which consists of three business days during which he or she may cancel the sales agreement without any further obligation. The customer must be expressly notified of this cancellation right and must be provided documentation that may be used to cancel the transaction. If the cancellation right is invoked, the customer must return any goods the customer obtained as part of the sales transaction; however, if the goods are not returned by the buyer (or collected by the seller) within 20 days following cancellation, the customer may retain the goods without penalty. The seller must refund any amounts paid within 10 business days. The seller may not collect or retain any cancellation fee. 
+    Although the FTC Rule is commonly referred to as the “door-to-door” sales rule, it is far broader than that: the law applies to the solicitation of consumer transactions not only at “homes” but also at other non-fixed locations. See 16 C.F.R. § 429 (stating that the rule is concerned with a “cooling off period for sales made at homes or certain other locations”) (emphasis added). As a result, the FTC Rule not only applies to transactions that are solicited at the customer’s home, but it also applies to transactions that are solicited at any place “other than the place of business of the seller,” including “facilities rented on a temporary or short-term basis, such as hotel or motel rooms, convention centers, fairgrounds or restaurants, sales at the buyer’s workplace, or in dormitory lounges.” 
+     The FTC Rule requires that all sellers who engage in customer solicitations at a home or any other location other than at a fixed business establishment must: (a) furnish the buyer with a “fully completed receipt or copy of any contract pertaining to such sale at the time of its execution which is in the same language . . . as that principally used in the oral sales presentation.”; (b) orally advise the customer of the 3-day cancellation right. (The failure to orally inform the customer of this right, or any misrepresentation to the customer about the right to cancel, is a violation of the FTC Rule.); (c) provide the buyer with a printed notice of cancellation form, in duplicate, which is filled out by the seller and includes the seller’s name, the date of the transaction, and the address of the seller; and (d) if a cancellation is received after the transaction is completed, the seller must, within ten business days, i) refund all payments made under the sale; ii) return any goods or property provided to the seller in connection with the sale; iii) cancel any check and/or terminate any security interest created in the transaction. You should use a signed agreement or order form that can be signed by the buyer. The document should be in duplicate, and the customer should be permitted to retain a copy of the document. The document should include a statement regarding the buyer’s right to cancel, in at least 10 point font and in substantially the form below: 
+ 
+NOTICE OF CANCELLATION 
+[Enter date of transaction] 
+(Date) 
+You may CANCEL this transaction, without any Penalty or Obligation, within THREE BUSINESS DAYS from the above date. 
+If you cancel, any property traded in, any payments made by you under the contract or sale, and any negotiable instrument executed by you will be returned within TEN BUSINESS DAYS following receipt by the seller of your cancellation notice, and any security interest arising out of the transaction will be cancelled. 
+If you cancel, you must make available to the seller at your residence, in substantially as good condition as when received, any goods delivered to you under this contract or sale, or you may, if you wish, comply with the instructions of the seller regarding the return shipment of the goods at the seller’s expense and risk. 
+ 
+If you do make the goods available to the seller and the seller does not pick them up within 20 days of the date of your Notice of Cancellation, you may retain or dispose of the goods without any further obligation. If you fail to make the goods available to the seller, or if you agree to return the goods to the seller and fail to do so, then you remain liable for performance of all obligations under the contract. 
+To cancel this transaction, mail or deliver a signed and dated copy of this Cancellation Notice or any other written notice, or send a telegram, to [Name of seller], at [address of seller's place of business] NOT LATER THAN MIDNIGHT OF [date]. I HEREBY CANCEL THIS TRANSACTION. 
+(Date) 
+(Buyer's signature) 
+ 
+    Several states impose similar requirements on customer transactions that are solicited at a home or other locations other than a fixed place of business. Generally, compliance with the FTC Rule will be sufficient to comply with a particular state’s laws on customer solicitations; however, you should consult your legal counsel to ensure compliance with the laws of a particular state or states. 
+ Finally, various cities, towns, and municipalities impose permitting requirements on uninvited, door-to-door sales. Unlike the state and federal laws, these local laws are more specifically targeted at home solicitations; many of them not only require a local permit before a seller can pursue an unwanted door-to-door home sales, but they also have rules prohibiting home solicitations after certain hours or where there is a “no solicitation” sign at the residence. If you are conducting the sale of goods or services on a “door-to-door” basis, without invitation, you should consult your legal counsel to determine whether any local permitting requirements apply to your conduct. 
+ 
+4. INTERNET MARKETING 
+A. E-Mail (requires written Company approval – See Section 2.4.1 of the Agreement) - A federal law (The Can Spam Act), effective January 1, 2004, places numerous restrictions on e-mail marketing messages that companies may send to users. The Can Spam Act creates tough penalties such as criminal sanctions with up to 5-year jail sentences and fines including statutory damages of up to $2 million per incident (trebled to $6 million for knowing violations). The law prohibits deceptive practices that mislead consumers, such as using misleading subject lines or headers, masking the marketer’s identity in the reply address, or falsifying registration information. This federal law pre-empts most state laws related to e-mail regulation, but you need to check with counsel to ensure no additional state requirements apply. 
+    AT&T does not engage in nor does it condone illegal e-mail marketing, sometimes referred to as “spamming.” Accordingly, AT&T will not tolerate spamming from you. The Agreement requires you to comply with all applicable laws, and also requires that in all of your activities as an independent contractor for AT&T, as well as in your separate equipment business, you engage in no practice which impugns AT&T’s commercial reputation and goodwill. Spamming not only may result in the violation of laws, but also reflects poorly on the AT&T brand name. 
+    If Company agrees, in writing per Section 2.4.1 of the Agreement, that you may market via e-mail, you are responsible for adopting and adhering to policies and procedures that will prevent illegal spamming. You need to speak with your legal counsel to ensure compliance with all applicable federal and state laws and regulations, but at a minimum, your policies should address the following: E-mail messages containing advertisements are required to include a clear and conspicuous identification that the message is an advertisement or solicitation. Further, the law prohibits misleading practices such as using misleading subject lines or headers, masking the marketer’s identity in the reply address, or falsifying registration information. Messages must also include a clear and conspicuous notice that recipients can “opt-out” of receiving future messages, and the message itself must include an immediate opt-out mechanism – either a functioning return address or an automated opt-out method. The opt-out mechanism must work for at least 30 days after the e-mail was sent. The sender has 10 days to remove an opt-out from its marketing list. Messages must further contain a valid physical postal address. Harvesting of e-mail addresses on the Internet or randomly generating electronic mail addresses by computer is strictly prohibited. Harvesting activities constitute aggravated violations which may result in trebled fines. 
+    Some prohibitions (not any related to deceptive practices) may not apply if the advertiser has the recipient’s express affirmative consent to receive e-mail advertisements. However, consent can only be demonstrated where the recipient expressly consented to receive e-mail advertisements from that advertiser either in response to a clear and conspicuous request for consent or at the recipient's own initiative. Finally, e-mail messages sent to facilitate, complete or confirm a commercial transaction are exempt. This includes messages that reflect account statements, change of status or terms, product updates and upgrades, 
+
+warranty information, safety or security information, subscriptions, memberships and other similar commercial relationships. However, this exemption does not provide marketers with a broad “existing business relationship” exemption. Thus, before undertaking any campaign, you should consult with your legal counsel to ensure compliance with all new developments in thelaw. 
+   AT&T expects you to keep, maintain and utilize the required “opt-out” list to prevent sending messages to consumers who have expressed a desire not to be contacted via e-mail. You must have in place, and train all employeesinvolved in this marketing activity on, written policies and procedures to ensure that all requests – including any that may be made to your postal address – are timely addressed and honored. These written policies and procedures must be made available to AT&T upon request. 
+   To the extent you claim exemption from the law due to affirmative consent or completion or confirmation of a commercial transaction, you must preserve and maintain proof of such exemption status. Such proof must be made available to AT&T upon request. Failure to comply or produce materials to AT&T upon its request may result in termination of your Agreement. 
+ 
+B. Banner Ads and Other Website Marketing - State, federal, and foreign laws generally related to advertising apply in boththe online and off-line environments. Accordingly, when using or operating banner ads or otherwise advertising on websites orthrough other Internet channels, you should consult with your legal counsel to ensure compliance with all such laws. This includes ensuring that the content of any banner ads or other advertisements contain no misrepresentations or misleading statements about AT&T-branded products or services, and that all material information is clearly and conspicuously disclosed to consumers, including a clear and conspicuous disclosure in close proximity to any offer of the material limitations and requirements associated with such offer. In March 2013, the FTC released staff guidance entitled “ .com Disclosures: How toMake Effective Disclosures in Digital Advertising.” This guidance takes into account the growing use of small screen devices by consumers, and provides examples of advertising that may be problematic, so should be reviewed by you and your counsel. 
+    Your legal counsel can provide information and advice about other required disclosures in the on-line environment, but ata minimum, your on-line marketing should clearly and conspicuously provide your name, logo, physical address, telephone number, and email address (to avoid confusion that the advertising was placed by AT&T or DIRECTV), the nature of the products and services being offered, all material terms associated with that offer, and the types of information (including personally identifiable information) that you collect from and about consumers. 
+    With regard to the collection of information, you should be certain to disclose the types of information collected passivelyfrom the consumer, such as through cookies, Internet Protocol (“IP”) addresses, web bugs, and other passive collection devices.Dealers should also fully disclose to consumers information about any third parties that help support, or otherwise obtain information from, the independent retailer’s Internet marketing activities (such as DoubleClick, Coremetrics, etc.). Failure to fully disclose and otherwise properly handle information collection, use, and disclosure might violate any number of applicablestate, federal, and/or foreign consumer protection and privacy laws. AT&T has the right to immediately terminate the Agreement if AT&T believes you might have engaged in illegal or inappropriate banner or other website advertising. 
+    Dealers must also comply with all applicable laws and intellectual property rights when using search engines and search engine listings. In particular, dealers must observe all such laws and rights protecting AT&T’s and AT&T 
+Affiliates’, including DIRECTV’s, company names, logos and/or trademarks. Dealers must not use AT&T’s, AT&T Affiliates’, including DIRECTV’s Marks in their web addresses or metatags, and must identify themselves as independent retailers that sell AT&T and DIRECTV-branded products. 
+    Finally, it is important to note that internet marketing cannot be used to generate consumer “inquiries” for subsequent limited outbound telemarketing calls permitted by this Dealer Policy unless the e-mail, web-form, etc., clearly identifies your business and you obtain the consumer’s demonstrable consent to receive a follow-up telephone call from you about AT&T products or services. For more information on this topic, see Section I on Telemarketing above. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 	2 
+Impact ConnectUS, LLC Confidential 
+
+ 	2 
+Impact ConnectUS, LLC Confidential 
+
+
+
+1 
+	Impact ConnectUS, 	 
+
+[Type here] 
+ 
+ 
+ 
+ 
+
+[Type here] 
+ 
+ 
+ 
+ 
+
+ 
+ 	37 
+AT&T Proprietary & Confidential 
+Not for use or disclosure outside the AT&T companies and Dealer except under written agreement 
+
+ 
+ 	37 
+AT&T Proprietary & Confidential 
+Not for use or disclosure outside the AT&T companies and Dealer except under written agreement 
+
+[Type here] 
+ 
+ 
+ 
+ 
+
+ 
+ 	37 
+AT&T Proprietary & Confidential 
+Not for use or disclosure outside the AT&T companies and Dealer except under written agreement 
+
+
+
+
+
+42
+
+42
+
+
+
+42
+
